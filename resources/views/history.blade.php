@@ -16,9 +16,9 @@
                     <center>
                         <div class="malasngoding-slider">
                             <div class="isi-slider">
-                                <img src="{{asset ('public/inclar/images/image01.jpg')}}">
-                                <img src="{{asset ('public/inclar/images/image02.jpg')}}">
-                                <img src="{{asset ('public/inclar/images/image03.jpg')}}">
+                                <img src="{{asset ('public/inclar/images/image01.JPG')}}">
+                                <img src="{{asset ('public/inclar/images/image02.JPG')}}">
+                                <img src="{{asset ('public/inclar/images/image03.JPG')}}">
                             </div>
                         </center>
 
