@@ -6,8 +6,8 @@
             </h2>
             <hr>
                 <div class="row" style="align-item: center;">
-                    <div class="col-md-6 card" style="padding-top:20px;padding-bottom:20px; ">
-                        <div class="item" style="margin: 4px;">
+                    <div class="col-md-6" style="padding-top:20px;padding-bottom:20px; ">
+                        <div class="item card" style="margin: 4px; padding:10px;">
                             <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
                                 Reputable International Proceeding
                             </h4>
@@ -40,8 +40,8 @@
                                     style="box-shadow: #282828; color: #661616;">Download Template</a>
                             </div>
                         </div>
-                        <div class="col-md-6 card" style="padding-top:20px;padding-bottom:20px; ">
-                            <div class="item" style="margin: 4px;">
+                        <div class="col-md-6" style="padding-top:20px;padding-bottom:20px; ">
+                            <div class="item card" style="margin: 4px; padding:10px;">
                                 <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
                                     Reputable International Journals
                                 </h4>
@@ -79,8 +79,8 @@
                             </div>
                         </div>
                         <div class="row" style="align-item: center;">
-                            <div class="col-md-6 card" style="padding-top:20px;padding-bottom:20px">
-                                <div class="item" style="margin: 4px;">
+                            <div class="col-md-6" style="padding-top:20px;padding-bottom:20px">
+                                <div class="item card" style="margin: 4px; padding:10px;">
                                     <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
                                         Accredited National Journals
                                     </h4>
@@ -115,8 +115,8 @@
                                     </div>
 
                                 </div>
-                                <div class="col-md-6 card" style="padding-top:20px; padding-bottom:20px">
-                                    <div class="item" style="margin: 4px;">
+                                <div class="col-md-6" style="padding-top:20px; padding-bottom:20px">
+                                    <div class="item card" style="margin: 4px; padding:10px;">
                                         <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
                                             Non-Accredited National Journals
                                         </h4>
