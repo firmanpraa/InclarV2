@@ -4,7 +4,7 @@
                     <div
                         class="main-slider fullsize"
                         data-stellar-background-ratio="0.5"
-                        style="background-image: url( {{asset ('inclar/images/slideshow/slider.png)')}}"
+                        style="background-image: url( {{asset ('public/inclar/images/slideshow/slider.png)')}}"
                         id="main-slider">
                         <div class="row">
                             <div class="slider-caption">
@@ -14,7 +14,7 @@
                                     <div class="col-sm-8 col-sm-offset-2">
                                         <img
                                             style=" height: 150px;width: 150px; margin-bottom:0; position: absolutes;"
-                                            src="{{asset ('inclar/img/inclar3.png')}}"
+                                            src="{{asset ('public/inclar/img/inclar3.png')}}"
                                             data-animate="fadeInRight"
                                             class="class">
                                         <h2
@@ -275,7 +275,7 @@
                                                 <img
                                                     style=" height: 40%;width: 40%; position: absolutes;"
                                                     title="University of Muhammadiyah Malang"
-                                                    src="{{asset ('inclar/images/logo/logoo.png')}}"
+                                                    src="{{asset ('public/inclar/images/logo/logoo.png')}}"
                                                     data-animate="zoomIn"
                                                     class="class">
                                             </a>

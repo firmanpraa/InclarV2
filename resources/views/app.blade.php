@@ -12,40 +12,40 @@
         <meta name="author" content="Huban Creative">
 
         <link
-            href="{{asset('inclar/libs/bootstrap/css/bootstrap.min.css')}}"
+            href="{{asset('public/inclar/libs/bootstrap/css/bootstrap.min.css')}}"
             rel="stylesheet"/>
-        <link href="{{asset ('inclar/libs/pace/pace.css" rel="stylesheet')}}"/>
+        <link href="{{asset ('public/inclar/libs/pace/pace.css" rel="stylesheet')}}"/>
         <link
-            href="{{asset ('inclar/libs/animate-css/animate.min.css')}}"
+            href="{{asset ('public/inclar/libs/animate-css/animate.min.css')}}"
             rel="stylesheet"/>
-        <link href="{{asset ('inclar/libs/iconmoon/style.css" rel="stylesheet')}}"/>
+        <link href="{{asset ('public/inclar/libs/iconmoon/style.css" rel="stylesheet')}}"/>
 
         <!-- LESS FILE <link href="css/style.less" rel="stylesheet/less" type="text/css"
         /> -->
         <!-- Extra CSS Libraries Start -->
         <link
-            href="{{asset ('inclar/libs/owl-carousel/owl.carousel.css')}}"
+            href="{{asset ('public/inclar/libs/owl-carousel/owl.carousel.css')}}"
             rel="stylesheet"
             type="text/css"/>
         <link
-            href="{{asset ('inclar/libs/owl-carousel/owl.theme.css')}}"
+            href="{{asset ('public/inclar/libs/owl-carousel/owl.theme.css')}}"
             rel="stylesheet"
             type="text/css"/>
         <link
-            href="{{asset ('inclar/libs/owl-carousel/owl.transitions.css')}}"
+            href="{{asset ('public/inclar/libs/owl-carousel/owl.transitions.css')}}"
             rel="stylesheet"
             type="text/css"/>
         <link
-            href="{{asset ('inclar/libs/jquery-magnific/magnific-popup.css')}}"
+            href="{{asset ('public/inclar/libs/jquery-magnific/magnific-popup.css')}}"
             rel="stylesheet"
             type="text/css"/>
         <link
-            href="{{asset ('inclar/css/style.css')}}"
+            href="{{asset ('public/inclar/css/style.css')}}"
             rel="stylesheet"
             type="text/css"/>
 
         <link
-            href="{{asset ('inclar/css/timeline.css')}}"
+            href="{{asset ('public/inclar/css/timeline.css')}}"
             rel="stylesheet"
             type="text/css"/>
         <!-- Extra CSS Libraries End -->
@@ -57,59 +57,59 @@
         <link
             rel="apple-touch-icon"
             sizes="57x57"
-            href="{{asset ('inclar/img/icon/apple-icon-57x57.png')}}">
+            href="{{asset ('public/inclar/img/icon/apple-icon-57x57.png')}}">
         <link
             rel="apple-touch-icon"
             sizes="60x60"
-            href="{{asset ('inclar/img/icon//apple-icon-60x60.png')}}">
+            href="{{asset ('public/inclar/img/icon//apple-icon-60x60.png')}}">
         <link
             rel="apple-touch-icon"
             sizes="72x72"
-            href="{{asset ('inclar/img/icon//apple-icon-72x72.png')}}">
+            href="{{asset ('public/inclar/img/icon//apple-icon-72x72.png')}}">
         <link
             rel="apple-touch-icon"
             sizes="76x76"
-            href="{{asset ('inclar/img/icon//apple-icon-76x76.png')}}">
+            href="{{asset ('public/inclar/img/icon//apple-icon-76x76.png')}}">
         <link
             rel="apple-touch-icon"
             sizes="114x114"
-            href="{{asset ('inclar/img/icon//apple-icon-114x114.png')}}">
+            href="{{asset ('public/inclar/img/icon//apple-icon-114x114.png')}}">
         <link
             rel="apple-touch-icon"
             sizes="120x120"
-            href="{{asset ('inclar/img/icon//apple-icon-120x120.png')}}">
+            href="{{asset ('public/inclar/img/icon//apple-icon-120x120.png')}}">
         <link
             rel="apple-touch-icon"
             sizes="144x144"
-            href="{{asset ('inclar/img/icon//apple-icon-144x144.png')}}">
+            href="{{asset ('public/inclar/img/icon//apple-icon-144x144.png')}}">
         <link
             rel="apple-touch-icon"
             sizes="152x152"
-            href="{{asset ('inclar/img/icon//apple-icon-152x152.png')}}">
+            href="{{asset ('public/inclar/img/icon//apple-icon-152x152.png')}}">
         <link
             rel="apple-touch-icon"
             sizes="180x180"
-            href="{{asset ('inclar/img/icon//apple-icon-180x180.png')}}">
+            href="{{asset ('public/inclar/img/icon//apple-icon-180x180.png')}}">
         <link
             rel="icon"
             type="image/png"
             sizes="192x192"
-            href="{{asset ('inclar/img/icon//android-icon-192x192.png')}}">
+            href="{{asset ('public/inclar/img/icon//android-icon-192x192.png')}}">
         <link
             rel="icon"
             type="image/png"
             sizes="32x32"
-            href="{{asset ('inclar/img/icon//favicon-32x32.png')}}">
+            href="{{asset ('public/inclar/img/icon//favicon-32x32.png')}}">
         <link
             rel="icon"
             type="image/png"
             sizes="96x96"
-            href="{{asset ('inclar/img/icon//favicon-96x96.png')}}">
+            href="{{asset ('public/inclar/img/icon//favicon-96x96.png')}}">
         <link
             rel="icon"
             type="image/png"
             sizes="16x16"
-            href="{{asset ('inclar/img/icon//favicon-16x16.png')}}">
+            href="{{asset ('public/inclar/img/icon//favicon-16x16.png')}}">
         <!-- <link rel="manifest" href="{{asset ('/manifest.json')}}"> -->
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
@@ -131,8 +131,8 @@
                             </button>
                             <a class="navbar-brand" href="index.html">
                                 <img
-                                    src="{{asset ('inclar/img/inclar1.png')}}"
-                                    data-dark-src="{{asset ('inclar/img/inclar1.png')}}"
+                                    src="{{asset ('public/inclar/img/inclar1.png')}}"
+                                    data-dark-src="{{asset ('public/inclar/img/inclar1.png')}}"
                                     alt="Coco Frontend Template"
                                     class="logo">
                             </a>
@@ -243,7 +243,7 @@
                                             <img
                                                 style=" height: 30%;width: 30%; margin-bottom:4%; padding-top: 4%; position: absolutes;"
                                                 title="University of Muhammadiyah Malang"
-                                                src="{{asset ('inclar/images/logo/logoo.png')}}"
+                                                src="{{asset ('public/inclar/images/logo/logoo.png')}}"
                                                 data-animate="fadeInRight"
                                                 class="class">
                                         </a>
@@ -251,7 +251,7 @@
                                             <img
                                                 style=" height: 40%;width: 40%; margin-bottom:4%; padding-top: 4%; position: absolutes;"
                                                 title="University of Muhammadiyah Malang"
-                                                src="{{asset ('inclar/img/inclar2.png')}}"
+                                                src="{{asset ('public/inclar/img/inclar2.png')}}"
                                                 data-animate="fadeInRight"
                                                 class="class">
                                         </a>
@@ -275,19 +275,19 @@
                     <script>
                         var resizefunc = [];
                     </script>
-                    <script src="{{asset ('inclar/libs/less-js/less-1.7.5.min.js')}}"></script>
-                    <script src="{{asset ('inclar/libs/pace/pace.min.js')}}"></script>
-                    <script src="{{asset ('inclar/libs/jquery/jquery-1.11.1.min.js')}}"></script>
-                    <script src="{{asset ('inclar/libs/bootstrap/js/bootstrap.min.js')}}"></script>
-                    <script src="{{asset ('inclar/libs/jquery-browser/jquery.browser.min.js')}}"></script>
-                    <script src="{{asset ('inclar/libs/fastclick/fastclick.js')}}"></script>
-                    <script src="{{asset ('inclar/libs/stellarjs/jquery.stellar.min.js')}}"></script>
-                    <script src="{{asset ('inclar/libs/jquery-appear/jquery.appear.js')}}"></script>
-                    <script src="{{asset ('inclar/js/init.js')}}"></script>
-                    <script src="{{asset ('inclar/libs/owl-carousel/owl.carousel.min.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/less-js/less-1.7.5.min.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/pace/pace.min.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/jquery/jquery-1.11.1.min.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/bootstrap/js/bootstrap.min.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/jquery-browser/jquery.browser.min.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/fastclick/fastclick.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/stellarjs/jquery.stellar.min.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/jquery-appear/jquery.appear.js')}}"></script>
+                    <script src="{{asset ('public/inclar/js/init.js')}}"></script>
+                    <script src="{{asset ('public/inclar/libs/owl-carousel/owl.carousel.min.js')}}"></script>
                     <script
-                        src="{{asset ('inclar/libs/jquery-magnific/jquery.magnific-popup.min.js')}}"></script>
-                    <script src="{{asset ('inclar/js/pages/index.js')}}"></script>
+                        src="{{asset ('public/inclar/libs/jquery-magnific/jquery.magnific-popup.min.js')}}"></script>
+                    <script src="{{asset ('public/inclar/js/pages/index.js')}}"></script>
                     <script type="text/javascript">
                     </script>
                 </body>

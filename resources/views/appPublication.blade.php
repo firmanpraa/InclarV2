@@ -15,7 +15,7 @@
                                 <a href="https://www.shs-conferences.org/" target="_blank">
                                     <img
                                         style=" height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes;"
-                                        src="{{asset ('inclar/images/logo/shs.png')}}"
+                                        src="{{asset ('public/inclar/images/logo/shs.png')}}"
                                         data-animate="fadeInRight"
                                         class="class"></a>
                                 </div>
@@ -49,7 +49,7 @@
                                     <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
                                         <img
                                             style=" border-radius:10px ; height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes; ;"
-                                            src="{{asset ('inclar/images/logo/india.gif')}}"
+                                            src="{{asset ('public/inclar/images/logo/india.gif')}}"
                                             data-animate="fadeInRight"
                                             class="class"></a>
                                     </div>
@@ -88,7 +88,7 @@
                                         <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
                                             <img
                                                 style=" border-radius:10px ; height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes; ;"
-                                                src="{{asset ('inclar/images/logo/legality.jpg')}}"
+                                                src="{{asset ('public/inclar/images/logo/legality.jpg')}}"
                                                 data-animate="fadeInRight"
                                                 class="class"></a>
                                         </div>
@@ -124,7 +124,7 @@
                                             <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
                                                 <img
                                                     style=" height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes;"
-                                                    src="{{asset ('inclar/images/logo/acj1.png')}}"
+                                                    src="{{asset ('public/inclar/images/logo/acj1.png')}}"
                                                     data-animate="fadeInRight"
                                                     class="class"></a>
                                             </div>

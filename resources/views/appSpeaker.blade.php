@@ -14,7 +14,7 @@
                 <center>
                     <a href="https://id.wikipedia.org/wiki/Mahfud_MD#:~:text=Prof.%20Dr.%20Mohammad%20Mahfud%20MD,akademisi%20dan%20hakim%20berkebangsaan%20Indonesia.&text=Ia%20meraih%20gelar%20Doktor%20pada%20tahun%201993%20dari%20Universitas%20Gadjah%20Mada."">
                         <img
-                            src="{{asset ('inclar/images/mahfud.png')}}"
+                            src="{{asset ('public/inclar/images/mahfud.png')}}"
                             data-animate="zoomIn"
                             data-delay="0"
                             style=" height: 70%;width: 70%; position: absolutes; margin-bottom: 20px;"></a>
@@ -45,7 +45,7 @@
                                 <center>
                                     <a href="images/hilaire-01.png" title="Dr. Hilaire Tegnan, LL.M">
                                         <img
-                                            src="{{asset ('inclar/images/lucas01.png')}}"
+                                            src="{{asset ('public/inclar/images/lucas01.png')}}"
                                             alt="Avatar"
                                             data-animate="zoomIn"
                                             data-delay="0"
@@ -63,7 +63,7 @@
                                     <center>
                                         <a href="images/tidarat-01.png" title="Lect. Dr. Tidarat Sinlapapiromsuk">
                                             <img
-                                                src="{{asset ('inclar/images/anna01.png')}}"
+                                                src="{{asset ('public/inclar/images/anna01.png')}}"
                                                 alt="Avatar"
                                                 data-animate="zoomIn"
                                                 data-delay="0"
@@ -82,7 +82,7 @@
                                             <center>
                                                 <a href="images/tongat-01.png" title="Dr. Tongat, SH., M.Hum">
                                                     <img
-                                                        src="{{asset ('inclar/images/tongat-01.png')}}"
+                                                        src="{{asset ('public/inclar/images/tongat-01.png')}}"
                                                         alt="Avatar"
                                                         data-animate="zoomIn"
                                                         data-delay="0"
