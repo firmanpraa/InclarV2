@@ -36,7 +36,70 @@
                     </div>
                 </div>
             </div>
-            
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-sm-10 col-sm-offset-1" data-animate="fadeInUp" data-delay="0">
+                        <hr style="border-top: 1px solid #282828;">
+                        <h2>
+                            <strong style="color: #F2B705;">Steering Committee</strong>
+                        </h2>
+                        <br>
+                        <table class="table" style="font-family: Raleway; text-align: left;">
+            <tbody>
+                                    <tr>
+                                        <td><strong>Patrons</strong</td>
+                                        <td>Prof. Dr. Syamsul Arifin, M.Si.<br><h6 style="color: grey;">2nd Vice Rector, University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="2"><strong>Advisor</strong></td>
+                                        <td>Prof. Dr. Yus M. Cholily, M.Si.<h6 style="color: grey;">DPPM Director, University of Muhammadiyah Malang</h6></td>
+                                    </tr>                                    
+                                    <tr>
+                                        <td>Dr. Tongat, S.H., M.Hum.<h6 style="color: grey;">Dean of Law Faculty, University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                    <tr>
+                                        <td rowspan="3"><strong>Responsible Person</strong</td>
+                                        <td>Dr. Fardini Sabilah, M.Pd. <br><h6 style="color: grey;">LPPI Chair, University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Salahudin, S.IP., M.Si., M.P.A.<br><h6 style="color: grey;">LPPI Secretary, University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dr. Catur Wido Haruni, S.H., M.Si., M. Hum.<br><h6 style="color: grey;">1st Vice Dean of Law Faculty, University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                </tbody>
+            </table>
+                    </div>
+                </div>
+            </div>
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col-sm-10 col-sm-offset-1" data-animate="fadeInUp" data-delay="0">
+                        <hr style="border-top: 1px solid #282828;">
+                        <h2>
+                            <strong style="color: #F2B705;">Scientific Committee</strong>
+                        </h2>
+                        <br>
+                        <table class="table" style="font-family: Raleway; text-align: left;">
+            <tbody>
+                                    <tr>
+                                        <td rowspan="4"><strong>Scientific Advisory Board</strong</td>
+                                        <td>Dr. Mokh. Najih, SH., M.Hum<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dr. Sidik Sunaryo, M.Si.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Prof. Rahayu Hartini, S.H., M.Si., M.Hum.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Zulfatman, M.Eng., Ph.D.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
+                                    </tr>
+                                </tbody>
+            </table>
+                    </div>
+                </div>
+            </div>
           <div class="container text-center">
                 <div class="row">
                     <div class="col-sm-10 col-sm-offset-1" data-animate="fadeInUp" data-delay="0">
@@ -47,35 +110,43 @@
                         <br>
                         <table class="table" style="font-family: Raleway; text-align: left;">
             <tbody>
-                                    <tr>
-                                        <td><strong>Responsible Person</strong</td>
-                                        <td>Dr. Tongat, SH., M.Hum<br><h6 style="color: grey;">Dean of Law Faculty, University of Muhammadiyah Malang</h6></td>
-                                    </tr>
-                                    <tr>
-                                        <td rowspan="2"><strong>Advisor</strong></td>
-                                        <td>Dr. Catur Wido Haruni, S.H., M.Si., M.Humbr><h6 style="color: grey;">1st Vice Dean of Law Faculty, University of Muhammadiyah Malang</h6></td>
-                                    </tr>                                    
-                                    <tr>
-                                        <td>Dr. Haris, S.H.,<h6 style="color: grey;">2st Vice Dean of Law Faculty, University of Muhammadiyah Malang</h6></td>
-                                    </tr>
+                        
                                     <tr>
                                         <td><strong>General Chair</strong></td>
                                         <td>Fitria Esfandiari, S.H., M.H.</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>General Co-Chair</strong></td>
-                                        <td>Solahuddin Al-Fatih, S.H., M.H.</td>
+                                        <td rowspan="2"><strong>Treasurer</strong></td>
+                                        <td>Kharisma Naidi Warnanda S, M.Pd.</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>Treasurer</strong></td>
                                         <td>Dr. Herwastoeti, S.H., M.Si</td>
                                     </tr>
                                     <tr>
-                                    <td rowspan="2"><strong>Program Chair</strong></td>
-                                        <td>Ratri Novita Erdianti, S.H., M.H.</td>
+                                    <tr>
+                                        <td rowspan="6"><strong>Technical Program & Publication Chair</strong></td>
+                                        <td>Sholahuddin Al Fatih, S.H., M.H. </td>
                                     </tr>
                                     <tr>
-                                        <td>Cholidah, S.H., M.H.</td>
+                                        <td>Dr. Haris. S.H., M.Hum</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dr. Fifik Wiryani, S.H., M.Si., M.Hum</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nur Putri Hidayah, A.Md., S.H., M.H</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Yaris Adhial Fajrin, S.H., M.H.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tinuk Dwi Cahyani, S.H., S.H.I., M.Hum</td>
+                                    </tr>
+                                    <td rowspan="2"><strong>Publicity and Sponsorship Chair</strong></td>
+                                        <td>Said Noor Prasetyo, S.H., M.H.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Syariful Alam, S.H.I., M.H.I</td>
                                     </tr>
                                     <tr>
                                     <td rowspan="2"><strong>Registration & Secretariat Chair</strong></td>
@@ -84,37 +155,20 @@
                                     <tr>
                                         <td>Syaiful Alam, S.H., M.H.I</td>
                                     </tr>
+                                    <td rowspan="2"><strong>Program Chair</strong></td>
+                                        <td>Ratri Novita Erdianti, S.H., M.H. </td>
+                                    </tr>
                                     <tr>
-                                    <td rowspan="3"><strong>Transportation Chair</strong></td>
+                                        <td>Cholidah, S.H., M.H</td>
+                                    </tr>
+                                    <tr>
+                                    <td><strong>Registration and Secretariat Chair</strong></td>
                                         <td>Nu'man Aunuh,S.H., M.Hum</td>
                                     </tr>
-                                    <tr>
-                                        <td>Said Noor Prasetyo, S.H., M.H.</td>
+                                   <tr>
+                                        <td><strong>Facilities and Local Arrangement Chair</strong></td>
+                                        <td>Nu’man Aunuh, S.H., M.Hum</td>
                                     </tr>
-                                    <tr>
-                                        <td>Ngateman, A.Md.</td>
-                                    </tr>
-                                    <tr>
-                                        <td rowspan="2"><strong>Publicity & Sponsorship Chair</strong></td>
-                                        <td>Deni Rachmatullah, S.Sos</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Agung Prabowo, S.Ikom</td>
-                                    </tr>
-                                    <tr>
-                                        <td rowspan="4"><strong>Technical Program & Publication Chair</strong></td>
-                                        <td>Dr. Fifik Wiryani, S.H., M.Si., M.Hum</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Nur Putri Hidayah, S.H., M.H.</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Yaris Adhial Fajrin, S.H., M.H.</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tinuk Dwi Cahyani, S.H., S.H.I., M.Hum</td>
-                                    </tr>
-                
                                 </tbody>
             </table>
                     </div>

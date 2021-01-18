@@ -55,7 +55,8 @@
                                                 data-animate="fadeInUp"
                                                 data-duration="2s"
                                                 data-delay="1300"
-                                                href="{{route('registration')}}"
+                                                href="{{'https://forms.gle/ueuzSjzyoM5FCfkcA'}}"
+                                                target="_blank"
                                                 class="btn-primary, btn btn-lg"
                                                 style="background-color:#F2B705; box-shadow: #282828;">REGISTER NOW</a>
                                         </div>

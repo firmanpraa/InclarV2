@@ -232,7 +232,9 @@
                                                 <a href="mailto:inclar@umm.ac.id">inclar@umm.ac.id</a>
                                             </li>
                                             <li>
-                                                <i class="icon-map-marker"></i>Jl. Raya Tlogomas No. 246 Malang, East Java, Indonesia Postal Code 65144</li>
+                                            <i class="icon-map-marker"></i>Law Faculty, University of Muhammadiyah Malang</li>
+                                            <li>
+                                            <i class="icon-map-marker"></i>Jl. Raya Tlogomas No. 246 Malang, East Java, Indonesia Postal Code 65144</li>
                                         </ul>
                                     </div>
 
