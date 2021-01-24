@@ -89,33 +89,60 @@
                                     </h2>
                                     <hr style="border-top: 1px solid #fff;">
                                     <h4 style="color: #fff">We encourage the participant to present their papers on
-                                        various field of topics as bellow :</h4>
+                                        various field of topics an alternative sub-topics as bellow :</h4>
+                                    <h3 style="color: #fff">
+                                        <strong>Health/Medicine Law</strong>
+                                    </h3>
+                                    <h4 style="color: #fff">
+                                    (Health Law to Response Covid-19 Outbreaks)                                    
+                                    </h4>
+                                    <br>
+                                    <h3 style="color: #fff">
+                                        <strong>Constitutional Law</strong>
+                                    </h3>
+                                    <h4 style="color: #fff">
+                                    (Amandment of Constituion during Covid-19 Pandemic)                                    
+                                    </h4>
+                                    <br>
+                                    <h3 style="color: #fff">
+                                        <strong>Private Law</strong>
+                                    </h3>
+                                    <h4 style="color: #fff">
+                                    (Data Protection on Covid-19 Patient: Between Medical Secret and Humanism)                                    
+                                    </h4>
+                                    <br>
+                                    <h3 style="color: #fff">
+                                        <strong>Criminal Law</strong>
+                                    </h3>
+                                    <h4 style="color: #fff">
+                                    (Corruption Case during Covid-19 Pandemic)                                    
+                                    </h4>
+                                    <br>
+                                    <h3 style="color: #fff">
+                                        <strong>Islamic Law</strong>
+                                    </h3>
+                                    <h4 style="color: #fff">
+                                    (Covid-19 on Islamic Law Perspective)                                    
+                                    </h4>
+                                    <br>
+                                    <h3 style="color: #fff">
+                                        <strong>Administrative Law</strong>
+                                    </h3>
+                                    <h4 style="color: #fff">
+                                    (Dillema of Implementation Administration Sanction to Citizen who Reject Covid-19 Vaccination)                                    
+                                    </h4>
+                                    <br>
                                     <h3 style="color: #fff">
                                         <strong>Philosophy of Law</strong>
                                     </h3>
                                     <h3 style="color: #fff">
-                                        <strong>Criminal Law</strong>
-                                    </h3>
-                                    <h3 style="color: #fff">
-                                        <strong>Private Law</strong>
-                                    </h3>
-                                    <h3 style="color: #fff">
                                         <strong>International Law</strong>
-                                    </h3>
-                                    <h3 style="color: #fff">
-                                        <strong>Constitutional Law</strong>
-                                    </h3>
-                                    <h3 style="color: #fff">
-                                        <strong>Islamic Law</strong>
                                     </h3>
                                     <h3 style="color: #fff">
                                         <strong>Human Right Issues</strong>
                                     </h3>
                                     <h3 style="color: #fff">
                                         <strong>Enviroment Law</strong>
-                                    </h3>
-                                    <h3 style="color: #fff">
-                                        <strong>Health Law</strong>
                                     </h3>
                                     <h3 style="color: #fff">Other related field</h3>
                                 </div>
