@@ -101,7 +101,7 @@
                                         <strong>Constitutional Law</strong>
                                     </h3>
                                     <h4 style="color: #fff">
-                                    (Amandment of Constituion during Covid-19 Pandemic)                                    
+                                    (Amandment of Constitution during Covid-19 Pandemic)                                    
                                     </h4>
                                     <br>
                                     <h3 style="color: #fff">
