@@ -46,9 +46,9 @@
                             class="col-sm-6"
                             style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                             <center>
-                                <a href="images/hilaire-01.png" title="Dr. Hilaire Tegnan, LL.M">
+                                <a href="">
                                     <img
-                                        src="{{asset ('public/inclar/images/simon.png')}}"
+                                        src="{{asset ('public/inclar/images/simon2.png')}}"
                                         alt="Avatar"
                                         data-animate="zoomIn"
                                         data-delay="0"
@@ -65,7 +65,7 @@
                                 class="col-sm-6"
                                 style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                                 <center>
-                                    <a href="images/hilaire-01.png" title="Dr. Hilaire Tegnan, LL.M">
+                                    <a href="i">
                                         <img
                                             src="{{asset ('public/inclar/images/lucas01.png')}}"
                                             alt="Avatar"
@@ -84,7 +84,7 @@
                                         class="col-sm-6"
                                         style="display: -webkit-box; -webkit-box-pack: center; -webkit-box-align: center;">
                                         <center>
-                                            <a href="images/tidarat-01.png" title="Lect. Dr. Tidarat Sinlapapiromsuk">
+                                            <a href="">
                                                 <img
                                                     src="{{asset ('public/inclar/images/anna01.png')}}"
                                                     alt="Avatar"
@@ -100,7 +100,7 @@
                                             class="col-sm-6"
                                             style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                                             <center>
-                                                <a href="images/tongat-01.png" title="Dr. Tongat, SH., M.Hum">
+                                                <a href="">
                                                     <img
                                                         src="{{asset ('public/inclar/images/tongat-01.png')}}"
                                                         alt="Avatar"
