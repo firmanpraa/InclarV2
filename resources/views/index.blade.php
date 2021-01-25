@@ -164,13 +164,13 @@
                                                         Abstracts Submission
                                                     </td>
                                                     <td class="column-1" style="text-align: left;">
-                                                        <strong>Batch I, 15 Januari 2021 sd 14 Maret 2021</strong>
+                                                        <strong>Batch I, 15 January 2021 sd 14 March 2021</strong>
                                                     </td>
                                                 </tr>
                                                 <tr class="row-2 odd">
                                                     <td class="column-2" style="text-align: left;"></td>
                                                     <td class="column-1" style="text-align: left;">
-                                                        <strong>Batch II, 15 Maret 2021 sd 22 Mei 2021</strong>
+                                                        <strong>Batch II, 15 March 2021 sd 22 May 2021</strong>
                                                     </td>
                                                 </tr>
                                                 <tr class="row-2 odd">
@@ -182,14 +182,14 @@
                                                         Full Paper Submission
                                                     </td>
                                                     <td class="column-1" style="text-align: left;">
-                                                        <strong>Batch I, 15 Januari 2021 sd 14 Maret 2021
+                                                        <strong>Batch I, 15 January 2021 sd 14 March 2021
                                                         </strong>
                                                     </td>
                                                 </tr>
                                                 <tr class="row-2 odd">
                                                     <td class="column-2" style="text-align: left;"></td>
                                                     <td class="column-1" style="text-align: left;">
-                                                        <strong>Batch II, 15 Maret 2021 sd 14 Juni 2021</strong>
+                                                        <strong>Batch II, 15 March 2021 sd 14 June 2021</strong>
                                                     </td>
                                                 </tr>
                                                 <tr class="row-2 odd">
@@ -201,13 +201,13 @@
                                                         Acceptance and Payment
                                                     </td>
                                                     <td class="column-1" style="text-align: left;">
-                                                        <strong>Batch I, 15 Maret 2021 sd 3 April 2021</strong>
+                                                        <strong>Batch I, 15 March 2021 sd 3 April 2021</strong>
                                                     </td>
                                                 </tr>
                                                 <tr class="row-2 odd">
                                                     <td class="column-2" style="text-align: left;"></td>
                                                     <td class="column-1" style="text-align: left;">
-                                                        <strong>Batch II, 28 Juni 2021 sd 12 Juli 2021
+                                                        <strong>Batch II, 28 June 2021 sd 12 July 2021
                                                         </strong>
                                                     </td>
                                                 </tr>
