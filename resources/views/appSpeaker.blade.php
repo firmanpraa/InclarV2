@@ -43,7 +43,7 @@
                     </div>
                     <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
                         <div
-                            class="col-sm-6"
+                            class="col-sm-4"
                             style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                             <center>
                                 <a href="">
@@ -52,7 +52,7 @@
                                         alt="Avatar"
                                         data-animate="zoomIn"
                                         data-delay="0"
-                                        style=" height: 30%;width: 30%; position: absolutes; margin-bottom: 20px;"></a>
+                                        style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
                                     <a class="gallery-item-title">Prof. Simon Butt</a>
                                     <p class="gallery-item-descr">
                                         <i>Professor of Indonesian Law, Centre for
@@ -62,7 +62,7 @@
                             </div>
 
                             <div
-                                class="col-sm-6"
+                                class="col-sm-4"
                                 style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                                 <center>
                                     <a href="i">
@@ -71,7 +71,7 @@
                                             alt="Avatar"
                                             data-animate="zoomIn"
                                             data-delay="0"
-                                            style=" height: 30%;width: 30%; position: absolutes; margin-bottom: 20px;"></a>
+                                            style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
                                         <a class="gallery-item-title">Prof. Francois Xavier Lucas</a>
                                         <p class="gallery-item-descr">
                                             <i>Professor, Universite Paris, Pantheon Sorbonne, France</i>
@@ -79,9 +79,27 @@
                                     </center>
                                 </div>
 
+                                <div
+                                class="col-sm-4"
+                                style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+                                <center>
+                                    <a href="i">
+                                        <img
+                                            src="{{asset ('public/inclar/images/sayuti.png')}}"
+                                            alt="Avatar"
+                                            data-animate="zoomIn"
+                                            data-delay="0"
+                                            style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
+                                        <a class="gallery-item-title">Dr. Muhamad Sayuti bin Hasan</a>
+                                        <p class="gallery-item-descr">
+                                            <i>Senior Lecturer, Faculty of Law, Universiti Kebangsaan Malaysia</i>
+                                        </p>
+                                    </center>
+                                </div>
+
                                 <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
                                     <div
-                                        class="col-sm-6"
+                                        class="col-md-6"
                                         style="display: -webkit-box; -webkit-box-pack: center; -webkit-box-align: center;">
                                         <center>
                                             <a href="">
@@ -90,14 +108,14 @@
                                                     alt="Avatar"
                                                     data-animate="zoomIn"
                                                     data-delay="0"
-                                                    style=" height: 30%;width: 30%; position: absolutes; margin-bottom: 20px;"></a>
+                                                    style=" height: 35%;width: 35%; position: absolutes; margin-bottom: 20px;"></a>
                                                 <a class="gallery-item-title">Dr. Anna Kim</a>
                                                 <p class="gallery-item-descr">Department of Social Welfare, Daegu Catholic University, Korea
                                                 </p>
                                             </center>
                                         </div>
                                         <div
-                                            class="col-sm-6"
+                                            class="col-md-6"
                                             style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                                             <center>
                                                 <a href="">
@@ -106,7 +124,7 @@
                                                         alt="Avatar"
                                                         data-animate="zoomIn"
                                                         data-delay="0"
-                                                        style=" height: 30%;width: 30%; position: absolutes; margin-bottom: 20px;"></a>
+                                                        style=" height: 35%;width: 35%; position: absolutes; margin-bottom: 20px;"></a>
                                                     <a class="gallery-item-title">Dr. Tongat, SH., M.Hum</a>
                                                     <p class="gallery-item-descr">
                                                         <i>Faculty of Law, University of Muhammadiyah Malang, Indonesia</i>
