@@ -13,10 +13,10 @@
                     <center>
                         <div class="malasngoding-slider">
                             <div class="isi-slider">
+                                <img src="{{asset ('public/inclar/images/slideshow/rayz1.jpg')}}">
+                                <img src="{{asset ('public/inclar/images/slideshow/rayz_2.jpg')}}">
                                 <img src="{{asset ('public/inclar/images/slideshow/rayz2.jpg')}}">
-                                <img src="{{asset ('public/inclar/images/slideshow/rayz3.jpg')}}">
                                 <img src="{{asset ('public/inclar/images/slideshow/rayz4.jpg')}}">
-                                <img src="{{asset ('public/inclar/images/slideshow/rayz3.jpg')}}">
                             </div>
                         </center>
 
