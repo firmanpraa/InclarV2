@@ -1,5 +1,5 @@
 @extends('app') @section('body')
-<div style="height: 50px;"></div>
+<div style="height: 100px;"></div>
 <section class="services-block">
     <div class="container">
         <div class="row">

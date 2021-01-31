@@ -42,13 +42,31 @@
                         <hr style="border-top: 1px solid #ccc;"></div>
                     </div>
                     <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
+
+                    <div
+                                class="col-sm-4"
+                                style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+                                <center>
+                                    <a href="i">
+                                        <img
+                                            src="{{asset ('public/inclar/images/lucas.png')}}"
+                                            alt="Avatar"
+                                            data-animate="zoomIn"
+                                            data-delay="0"
+                                            style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
+                                        <a class="gallery-item-title">Prof. Francois Xavier Lucas</a>
+                                        <p class="gallery-item-descr">
+                                            <i>Professor, Universite Paris, Pantheon Sorbonne, France</i>
+                                        </p>
+                                    </center>
+                                </div>
                         <div
                             class="col-sm-4"
                             style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                             <center>
                                 <a href="">
                                     <img
-                                        src="{{asset ('public/inclar/images/simon2.png')}}"
+                                        src="{{asset ('public/inclar/images/simon.png')}}"
                                         alt="Avatar"
                                         data-animate="zoomIn"
                                         data-delay="0"
@@ -61,76 +79,22 @@
                                 </center>
                             </div>
 
-                            <div
-                                class="col-sm-4"
-                                style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
-                                <center>
-                                    <a href="i">
-                                        <img
-                                            src="{{asset ('public/inclar/images/lucas01.png')}}"
-                                            alt="Avatar"
-                                            data-animate="zoomIn"
-                                            data-delay="0"
-                                            style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
-                                        <a class="gallery-item-title">Prof. Francois Xavier Lucas</a>
-                                        <p class="gallery-item-descr">
-                                            <i>Professor, Universite Paris, Pantheon Sorbonne, France</i>
-                                        </p>
-                                    </center>
-                                </div>
-
                                 <div
                                 class="col-sm-4"
                                 style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                                 <center>
                                     <a href="i">
                                         <img
-                                            src="{{asset ('public/inclar/images/sayuti.png')}}"
+                                            src="{{asset ('public/inclar/images/helmi.png')}}"
                                             alt="Avatar"
                                             data-animate="zoomIn"
                                             data-delay="0"
                                             style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
-                                        <a class="gallery-item-title">Dr. Muhamad Sayuti bin Hasan</a>
+                                        <a class="gallery-item-title">Dr. Muhamad Helmi Md. Said</a>
                                         <p class="gallery-item-descr">
                                             <i>Senior Lecturer, Faculty of Law, Universiti Kebangsaan Malaysia</i>
                                         </p>
                                     </center>
                                 </div>
-
-                                <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
-                                    <div
-                                        class="col-md-6"
-                                        style="display: -webkit-box; -webkit-box-pack: center; -webkit-box-align: center;">
-                                        <center>
-                                            <a href="">
-                                                <img
-                                                    src="{{asset ('public/inclar/images/anna01.png')}}"
-                                                    alt="Avatar"
-                                                    data-animate="zoomIn"
-                                                    data-delay="0"
-                                                    style=" height: 35%;width: 35%; position: absolutes; margin-bottom: 20px;"></a>
-                                                <a class="gallery-item-title">Dr. Anna Kim</a>
-                                                <p class="gallery-item-descr">Department of Social Welfare, Daegu Catholic University, Korea
-                                                </p>
-                                            </center>
-                                        </div>
-                                        <div
-                                            class="col-md-6"
-                                            style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
-                                            <center>
-                                                <a href="">
-                                                    <img
-                                                        src="{{asset ('public/inclar/images/tongat-01.png')}}"
-                                                        alt="Avatar"
-                                                        data-animate="zoomIn"
-                                                        data-delay="0"
-                                                        style=" height: 35%;width: 35%; position: absolutes; margin-bottom: 20px;"></a>
-                                                    <a class="gallery-item-title">Dr. Tongat, SH., M.Hum</a>
-                                                    <p class="gallery-item-descr">
-                                                        <i>Faculty of Law, University of Muhammadiyah Malang, Indonesia</i>
-                                                    </p>
-                                                </center>
-                                            </div>
-                                        </div>
-                                    </div>
+                                </div>
                                 </section>

@@ -168,30 +168,11 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="{{route('callforpaper')}}" class="{{ request()->is('callforpaper*') ? 'active' : '' }}">
+                                    <a href="{{route('venue')}}" class="{{ request()->is('venue*') ? 'active' : '' }}">
                                         <h5>
-                                            <strong>CALL FOR PAPERS</strong>
+                                            <strong>VENUE</strong>
                                         </h5>
                                     </a>
-                                </li>
-                                <li class="dropdown remove1">
-                                    <a href="#">
-                                        <h5>
-                                            <strong>FOR AUTHORS</strong>
-                                        </h5>
-                                    </a>
-                                    <!-- <ul> -->
-                                    <div class="dropdown-content">
-                                        <a href="{{route('information')}}" class="{{ request()->is('information*') ? 'active' : '' }}">
-                                            <strong>AUTHOR INFORMATION</strong>
-                                        </a>
-                                        <a href="{{route('important_dates')}}" class="{{ request()->is('important_dates*') ? 'active' : '' }}">
-                                            <strong>IMPORTANT DATES</strong>
-                                        </a>
-                                        <a href="{{route('contact')}}" class="{{ request()->is('contact*') ? 'active' : '' }}">
-                                            <strong>CONTACT US</strong>
-                                        </a>
-                                    </div>
                                 </li>
                             </ul>
                         </div>
@@ -207,20 +188,19 @@
                                         <h4>QUICK LINKS</h4>
                                         <hr>
                                         <li style="list-style: none;">
-                                            <a href="{{route('registration')}}">Registration</a>
+                                            <a href="{{route('speakers')}}">Speakers</a>
+                                        </li>
+                                        
+                                        <li style="list-style: none;">
+                                            <a href="{{route('publication')}}">Publication</a>
                                         </li>
                                         <li style="list-style: none;">
                                             <a href="{{route('committee')}}">Committee</a>
                                         </li>
                                         <li style="list-style: none;">
-                                            <a href="{{route('callforpaper')}}">Call For Papers</a>
+                                            <a href="{{route('venue')}}">Venue</a>
                                         </li>
-                                        <li style="list-style: none;">
-                                            <a href="{{route('important_dates')}}">Important Date</a>
-                                        </li>
-                                        <li style="list-style: none;">
-                                            <a href="{{route('speakers')}}">Speakers</a>
-                                        </li>
+                                    
                                     </div>
 
                                     <div class="col-sm-4">

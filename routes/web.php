@@ -50,3 +50,7 @@ Route::get('/contact', function () {
 Route::get('/history', function () {
     return view('history');
 })->name('history');
+
+Route::get('/venue', function () {
+    return view('venue');
+})->name('venue');
