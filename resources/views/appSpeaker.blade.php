@@ -56,7 +56,7 @@
                                             style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
                                         <a class="gallery-item-title">Prof. Francois Xavier Lucas</a>
                                         <p class="gallery-item-descr">
-                                            <i>Professor, Universite Paris, Pantheon Sorbonne, France</i>
+                                            <i>Universite Paris, Pantheon Sorbonne, French</i>
                                         </p>
                                     </center>
                                 </div>
@@ -73,8 +73,7 @@
                                         style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
                                     <a class="gallery-item-title">Prof. Simon Butt</a>
                                     <p class="gallery-item-descr">
-                                        <i>Professor of Indonesian Law, Centre for
-                                            Asian and Pacific Law</i>
+                                        <i>The University of Sidney, Australia</i>
                                     </p>
                                 </center>
                             </div>
@@ -90,9 +89,9 @@
                                             data-animate="zoomIn"
                                             data-delay="0"
                                             style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
-                                        <a class="gallery-item-title">Dr. Muhamad Helmi Md. Said</a>
+                                        <a class="gallery-item-title">Assosiate Prof. Dr. Muhamad Helmi Md.Said </a>
                                         <p class="gallery-item-descr">
-                                            <i>Senior Lecturer, Faculty of Law, Universiti Kebangsaan Malaysia</i>
+                                            <i>Universiti Kebangsaan Malaysia</i>
                                         </p>
                                     </center>
                                 </div>

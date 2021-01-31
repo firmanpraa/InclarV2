@@ -141,7 +141,7 @@
                             <strong>Human Right Issues</strong>
                         </h3>
                         <h3 style="color: #fff">
-                            <strong>Enviroment Law</strong>
+                            <strong>Environment Law</strong>
                         </h3>
                         <h3 style="color: #fff">Other related field</h3>
                     </div>
