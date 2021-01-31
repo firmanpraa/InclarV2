@@ -223,16 +223,24 @@
                                         <hr>
                                         <a href="http://www.umm.ac.id">
                                             <img
-                                                style=" height: 30%;width: 30%; margin-bottom:4%; padding-top: 4%; position: absolutes;"
+                                                style=" height: 20%;width: 20%; margin-bottom:4%; padding-top: 4%; position: absolutes;"
                                                 title="University of Muhammadiyah Malang"
                                                 src="{{asset ('public/inclar/images/logo/logoo.png')}}"
                                                 data-animate="fadeInRight"
                                                 class="class">
                                         </a>
+                                        <a href="http://lppi.umm.ac.id">
+                                            <img
+                                                style=" height: 20%;width: 20%; margin-bottom:4%; padding-top: 4%; position: absolutes;"
+                                                title="LPPI UMM"
+                                                src="{{asset ('public/inclar/img/lppi.png')}}"
+                                                data-animate="fadeInRight"
+                                                class="class">
+                                        </a>
                                         <a href="http://inclar.umm.ac.id">
                                             <img
-                                                style=" height: 40%;width: 40%; margin-bottom:4%; padding-top: 4%; position: absolutes;"
-                                                title="University of Muhammadiyah Malang"
+                                                style=" height: 20%;width: 20%; margin-bottom:4%; padding-top: 4%; position: absolutes;"
+                                                title="INCLAR"
                                                 src="{{asset ('public/inclar/img/inclar2.png')}}"
                                                 data-animate="fadeInRight"
                                                 class="class">
