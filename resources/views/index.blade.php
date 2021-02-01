@@ -110,6 +110,13 @@
                         </h4>
                         <br>
                         <h3 style="color: #fff">
+                            <strong>Business and Bankruptcy Law</strong>
+                        </h3>
+                        <h4 style="color: #fff">
+                            (Juridical Instruments for Handling The Economic Crisis Related to The Covid 19 Outbreak)
+                        </h4>
+                        <br>
+                        <h3 style="color: #fff">
                             <strong>Criminal Law</strong>
                         </h3>
                         <h4 style="color: #fff">
