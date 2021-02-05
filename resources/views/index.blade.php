@@ -54,7 +54,7 @@
                                 data-animate="fadeInUp"
                                 data-duration="2s"
                                 data-delay="1300"
-                                href="{{'https://forms.gle/ueuzSjzyoM5FCfkcA'}}"
+                                href="{{'https://easychair.org/conferences/?conf=iclr2021'}}"
                                 target="_blank"
                                 class="btn-primary, btn btn-lg"
                                 style="background-color:#F2B705; box-shadow: #282828;">REGISTER NOW</a>
