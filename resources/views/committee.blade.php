@@ -30,7 +30,6 @@
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h3 style="color: #282828">Said Noor Prasetyo, S.H., M.H.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
-                        <h3 style="color: #282828">Zulfatman, M.Eng., Ph. D.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <br>
                     </div>
@@ -91,9 +90,6 @@
                                     </tr>
                                     <tr>
                                         <td>Prof. Rahayu Hartini, S.H., M.Si., M.Hum.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Zulfatman, M.Eng., Ph.D.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
                                     </tr>
                                 </tbody>
             </table>
