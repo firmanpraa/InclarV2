@@ -180,10 +180,10 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>Batch I, 15 January 2021 until 14 March 2021</strong>
+                                                <strong>The batch I, January 15, 2021, until March 14, 2021</strong>
                                             </li>
                                             <li>
-                                                <strong>Batch II, 15 March 2021 until 22 May 2021</strong>
+                                                <strong>Batch II, March 15, 2021, until May 22, 2021</strong>
                                             </li>
                                         </ul>
 
@@ -197,10 +197,10 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>Batch I, 15 January 2021 until 14 March 2021</strong>
+                                                <strong>The batch I, January 15, 2021, until  March 14, 2021 </strong>
                                             </li>
                                             <li>
-                                                <strong>Batch II, 15 March 2021 until 14 June 2021</strong>
+                                                <strong>Batch II, 15th  March 2021 until June 14, 2021</strong>
                                             </li>
                                         </ul>
 
@@ -214,16 +214,14 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>Batch I, 15 March 2021 until 3 April 2021</strong>
+                                                <strong>The batch I, March 15, 2021, until April 3, 2021 </strong>
                                             </li>
                                             <li>
-                                                <strong>Batch II, 15 March 2021 until 14 June 2021</strong>
+                                                <strong>Batch II, 15th  March 2021 until June 14, 2021</strong>
                                             </li>
                                         </ul>
-                                       
                                     </td>
                                 </tr>
-
                             </tbody>
                         </table>
                     </div>
