@@ -30,7 +30,6 @@
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h3 style="color: #282828">Said Noor Prasetyo, S.H., M.H.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
-                        <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <br>
                     </div>
                 </div>
