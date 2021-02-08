@@ -222,6 +222,30 @@
                                         </ul>
                                     </td>
                                 </tr>
+                                <tr class="row-2 odd">
+                                    <td class="column-2" style="text-align: left;">
+                                    Registration and Payment Deadline (Early Bird)
+                                    </td>
+                                    <td class="column-1" style="text-align: left;">
+                                        <ul><li><strong>April 3, 2021</strong>
+                                    </td></li></ul>
+                                </tr>
+                                <tr class="row-2 odd">
+                                    <td class="column-2" style="text-align: left;">
+                                    Registration and Payment Deadline (Normal Rate)
+                                    </td>
+                                    <td class="column-1" style="text-align: left;">
+                                        <ul><li><strong>June 14, 2021</strong>
+                                    </td></li></ul>
+                                </tr>
+                                <tr class="row-2 odd">
+                                    <td class="column-2" style="text-align: left;">
+                                    <strong>Conference and Paper Presentation </strong>
+                                    </td>
+                                    <td class="column-1" style="text-align: left;">
+                                        <ul><li><strong>23rd -24th September 2021</strong>
+                                    </td></li></ul>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
