@@ -12,24 +12,43 @@
                         <hr style="border-top: 1px solid #282828;">
                         <h3 style="color: #282828">Dr. Moh. Najih, S.H., M.Hum., Ph.D</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57194416852)</h5>
+
                         <h3 style="color: #282828">Dr. Fifik Wiryani, S.H., M.Si., M.Hum</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
+
                         <h3 style="color: #282828">Prof. Hikmahanto Juwana, S.H., LLM, PhD</h3>
                         <h4 style="color: #646464">University of Indonesia</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
+
                         <h3 style="color: #282828">Sonny Zulhuda, Ph.D</h3>
                         <h4 style="color: #646464">Islamic Internatinal University of Malaysia</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
+
                         <h3 style="color: #282828">Dr. Abdurrahman Raden Aji Haqqi ,Lc; MCL</h3>
                         <h4 style="color: #646464">Universiti Islam Sultan Sharif Ali, Brunei Darussalam</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
+
                         <h3 style="color: #282828">Prof. Dr. Rahayu Hartini,S.H., M.Si., M.Hum</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
+
                         <h3 style="color: #282828">Prof. Dr. Muhammad Fauzan, S.H., M.Hum.</h3>
                         <h4 style="color: #646464">Universitas Jenderal Soedirman</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
+
                         <h3 style="color: #282828">Dr. Sidik Sunaryo, SH., M.Si., M.Hum.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
+
                         <h3 style="color: #282828">Dr. Herwastoeti, SH.M.Si</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
+
                         <h3 style="color: #282828">Said Noor Prasetyo, S.H., M.H.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
+                        <h5 style="color: #646464">(SINTA Author ID : 5993824)</h5>
                         <br>
                     </div>
                 </div>
