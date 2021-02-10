@@ -37,7 +37,7 @@
                                 data-animate="fadeInUp"
                                 data-delay="1000"
                                 data-duration="2s"
-                                style="color:white; text-shadow: #282828; margin: 0; ">Sept 23-24<sup>th</sup>, 2021</h2>
+                                style="color:white; text-shadow: #282828; margin: 0; ">Sept 23-25<sup>th</sup>, 2021</h2>
                         </div>
 
                         <br>
