@@ -243,7 +243,7 @@
                                     <strong>Conference and Paper Presentation </strong>
                                     </td>
                                     <td class="column-1" style="text-align: left;">
-                                        <ul><li><strong>23rd -24th September 2021</strong>
+                                        <ul><li><strong>23rd -25th September 2021</strong>
                                     </td></li></ul>
                                 </tr>
                             </tbody>
@@ -262,11 +262,10 @@
                         </h2>
                         <hr style="border-top: 1px solid #fff;">
                         <h1 style="color: #fff;">
-                            <strong>Conference Fee IDR 1.000.000 (USD 100)<br></strong>
+                            <strong>Conference Fee IDR 2.000.000 (USD 150)*<br></strong>
                         </h1>
                         <hr style="border-top: 1px solid #fff;">
-                        <h3 style="color: #fff;">*All hotel accommodation fees for two days, one night,
-                            certificate, and all seminar kit. This fees NOT INCLUDED PUBLICATION FEE:</h3>
+                        <h3 style="color: #fff;">*AAll hotel accomodation fees for three days two nights, certificate and all seminar kit. This fees NOT INCLUDED PUBLICATION FEE:</h3>
                         <table>
                             <tbody>
                                 <tr>
@@ -286,8 +285,7 @@
 
                                             </li>
                                             <li>
-                                                Non-Accredited National Journals, Audito Comparative Law Journal IDR 500.000
-                                                (USD 50)*<br>
+                                            Non Accredited National Journals, Audito Comparative Law Journal (Free)*<br>
 
                                             </li>
                                         </ul>

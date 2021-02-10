@@ -206,10 +206,20 @@
                                     <div class="col-sm-4">
                                         <h4>CONTACT US</h4>
                                         <hr>
-                                        <ul class="list-unstyled company-info">
+                                        <ul class="list-unstyled company-info" style="color: white">
+                                            <li>
+                                                <h5 style="color:white">Ratri Novita Erdianti</h5>
+                                                <a href="https://wa.me/628121772315" target="blank"><strong>08121772315</strong></a>
+            
+                                            </li>
+                                            <li>
+                                            <h5 style="color:white">Muhammad Lutfi </h5>
+                                                <a href="https://wa.me/6285855123238" target="blank"><strong>085855123238</strong></a>
+            
+                                            </li>
                                             <li>
                                                 <i class="icon-envelope"></i>
-                                                <a href="mailto:inclar@umm.ac.id">inclar@umm.ac.id</a>
+                                                <a href="mailto:inclar@umm.ac.id"><strong>inclar@umm.ac.id</strong></a>
                                             </li>
                                             <li>
                                             <i class="icon-map-marker"></i>Law Faculty, University of Muhammadiyah Malang</li>
