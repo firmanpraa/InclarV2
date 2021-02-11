@@ -48,6 +48,11 @@
             href="{{asset ('public/inclar/css/timeline.css')}}"
             rel="stylesheet"
             type="text/css"/>
+
+        <link
+            href="{{asset ('public/inclar/libs/iconmoon/style.css')}}"
+            rel="stylesheet"
+            type="text/css"/>
         <!-- Extra CSS Libraries End -->
         <!--[if lt IE 9]> <script
         src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script> <script
@@ -113,7 +118,7 @@
         <!-- <link rel="manifest" href="{{asset ('/manifest.json')}}"> -->
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-        <meta name="theme-color" content="#ffffff">
+        <meta name="theme-color" content="#ffffff"> 
     </head>
 
     <body class="">
@@ -208,11 +213,13 @@
                                         <hr>
                                         <ul class="list-unstyled company-info" style="color: white">
                                             <li>
+                                            <i class="icon-phone-square"></i>
                                                 <h5 style="color:white">Ratri Novita Erdianti</h5>
                                                 <a href="https://wa.me/628121772315" target="blank"><strong>08121772315</strong></a>
             
                                             </li>
                                             <li>
+                                            <i class="icon-phone-square"></i>
                                             <h5 style="color:white">Muhammad Lutfi </h5>
                                                 <a href="https://wa.me/6285855123238" target="blank"><strong>085855123238</strong></a>
             
@@ -222,7 +229,7 @@
                                                 <a href="mailto:inclar@umm.ac.id"><strong>inclar@umm.ac.id</strong></a>
                                             </li>
                                             <li>
-                                            <i class="icon-map-marker"></i>Law Faculty, University of Muhammadiyah Malang</li>
+                                            <i class="icon-building"></i>Law Faculty, University of Muhammadiyah Malang</li>
                                             <li>
                                             <i class="icon-map-marker"></i>Jl. Raya Tlogomas No. 246 Malang, East Java, Indonesia Postal Code 65144</li>
                                         </ul>
