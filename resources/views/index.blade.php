@@ -273,7 +273,7 @@
                                         <ul>
                                             <li>
                                                 Reputable International Journals Indian Journal of Forensic, Medicine, and
-                                                Toxicology indexed by Scopus Q3, S.J.R.: 0,16 (IJFMT) IDR.3.000.000 (USD 250)*<br>
+                                                Toxicology indexed by Scopus Q3, S.J.R.: 0,16 (IJFMT) IDR 3.000.000 (USD 250)*<br>
                                             </li>
                                             <li>
                                                 Reputable International Proceeding S.H.S. Web of Conferences indexed by WOS IDR
@@ -281,7 +281,7 @@
 
                                             </li>
                                             <li>
-                                                Accredited National Journals, Legality, Sinta 2 (USD 100)*<br>
+                                                Accredited National Journals, Legality, Sinta 2 IDR 1.000.000(USD 100)*<br>
 
                                             </li>
                                             <li>
