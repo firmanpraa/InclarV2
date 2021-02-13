@@ -89,7 +89,7 @@
                                                 data-animate="zoomIn"
                                                 data-delay="0"
                                                 style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
-                                            <a class="gallery-item-title">Assosiate Prof. Dr. Muhamad Helmi Md.Said
+                                            <a class="gallery-item-title">Dr. Muhamad Helmi Md.Said
                                             </a>
                                             <p class="gallery-item-descr">
                                                 <i>Universiti Kebangsaan Malaysia</i>
