@@ -165,6 +165,7 @@
                         </h2>
                         <table class="table">
                             <tbody>
+                               <!--
                                 <tr class="row-2 odd">
                                     <td class="column-2" style="text-align: left;">
                                         Announcement
@@ -173,6 +174,7 @@
                                         <ul><li><strong>January 15, 2021</strong>
                                     </td></li></ul>
                                 </tr>
+                        -->
                                 <tr class="row-2 odd">
                                     <td class="column-2" style="text-align: left;">
                                         Abstracts Submission
@@ -180,10 +182,7 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>The batch I, January 15, 2021, until March 14, 2021</strong>
-                                            </li>
-                                            <li>
-                                                <strong>Batch II, March 15, 2021, until May 22, 2021</strong>
+                                                <strong>March 15th, 2021, until May 22nd, 2021</strong>
                                             </li>
                                         </ul>
 
@@ -197,10 +196,7 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>The batch I, January 15, 2021, until  March 14, 2021 </strong>
-                                            </li>
-                                            <li>
-                                                <strong>Batch II, 15th  March 2021 until June 14, 2021</strong>
+                                                <strong>March 15th, 2021, until  June 14th, 2021 </strong>
                                             </li>
                                         </ul>
 
@@ -214,11 +210,9 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>The batch I, March 15, 2021, until April 3, 2021 </strong>
+                                                <strong>March 14th, 2021, until July 12nd, 2021 </strong>
                                             </li>
-                                            <li>
-                                                <strong>Batch II, 15th  March 2021 until June 14, 2021</strong>
-                                            </li>
+                                        
                                         </ul>
                                     </td>
                                 </tr>

@@ -66,14 +66,14 @@
                                 <center>
                                     <a href="">
                                         <img
-                                            src="{{asset ('public/inclar/images/simon.png')}}"
+                                            src="{{asset ('public/inclar/images/mahy.png')}}"
                                             alt="Avatar"
                                             data-animate="zoomIn"
                                             data-delay="0"
                                             style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
-                                        <a class="gallery-item-title">Prof. Simon Butt</a>
+                                        <a class="gallery-item-title">Dr. Petra Mahy</a>
                                         <p class="gallery-item-descr">
-                                            <i>The University of Sidney, Australia</i>
+                                            <i>Senior Lecturer, Monash University, Australia</i>
                                         </p>
                                     </center>
                                 </div>
@@ -100,23 +100,7 @@
 
                                 <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
 
-                                    <div
-                                        class="col-sm-6"
-                                        style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
-                                        <center>
-                                            <a href="i">
-                                                <img
-                                                    src="{{asset ('public/inclar/images/tongat-01.png')}}"
-                                                    alt="Avatar"
-                                                    data-animate="zoomIn"
-                                                    data-delay="0"
-                                                    style=" height: 32%;width: 32%; position: absolutes; margin-bottom: 20px;"></a>
-                                                <a class="gallery-item-title">Dr. Tongat, SH., M.Hum</a>
-                                                <p class="gallery-item-descr">
-                                                    <i>University of Muhammadiyah Malang</i>
-                                                </p>
-                                            </center>
-                                        </div>
+                                    
                                         <div
                                             class="col-sm-6"
                                             style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
@@ -130,9 +114,26 @@
                                                         style=" height: 32%;width: 32%; position: absolutes; margin-bottom: 20px;"></a>
                                                     <a class="gallery-item-title">Dr. Fifik Wiryani, SH., M.Si., M.Hum</a>
                                                     <p class="gallery-item-descr">
-                                                        <i>University of Muhammadiyah Malang</i>
+                                                        <i>Associate Professor, Faculty of Law, University of Muhammadiyah Malang</i>
                                                     </p>
                                                 </center>
                                             </div>
+                                            <div
+                                        class="col-sm-6"
+                                        style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+                                        <center>
+                                            <a href="i">
+                                                <img
+                                                    src="{{asset ('public/inclar/images/catur.png')}}"
+                                                    alt="Avatar"
+                                                    data-animate="zoomIn"
+                                                    data-delay="0"
+                                                    style=" height: 32%;width: 32%; position: absolutes; margin-bottom: 20px;"></a>
+                                                <a class="gallery-item-title">Dr. Catur Wido Haruni, SH.,M.Si.,M.Hum</a>
+                                                <p class="gallery-item-descr">
+                                                    <i>Associate Professor, Faculty of Law, University of Muhammadiyah Malang</i>
+                                                </p>
+                                            </center>
+                                        </div>
                                         </div>
                                     </section>

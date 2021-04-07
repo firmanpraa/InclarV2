@@ -14,15 +14,7 @@
                                             Abstracts Submission
                                         </td>
                                         <td class="column-1" style="text-align: left;">
-                                            <strong>Batch I, 15 January 2021 sd 14 March 2021</strong>
-                                        </td>
-                                    </tr>
-                                    <tr class="row-2 odd">
-                                        <td class="column-2" style="text-align: left;">
-    
-                                        </td>
-                                        <td class="column-1" style="text-align: left;">
-                                            <strong>Batch II, 15 March 2021 sd 22 May 2021</strong>
+                                            <strong>15th March 2021 sd 14 March 2021</strong>
                                         </td>
                                     </tr>
                                     <tr class="row-2 odd">
