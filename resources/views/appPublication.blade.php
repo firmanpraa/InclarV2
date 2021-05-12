@@ -46,7 +46,7 @@
                                     Reputable International Journals
                                 </h4>
                                 <div class="zoom">
-                                    <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
+                                    <a href="http://www.ijfmt.com/" target="_blank">
                                         <img
                                             style=" border-radius:10px ; height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes; ;"
                                             src="{{asset ('public/inclar/images/logo/india.gif')}}"
@@ -70,7 +70,7 @@
                                         data-animate="fadeInUp"
                                         data-duration="2s"
                                         data-delay="1300"
-                                        href="https://drive.google.com/file/d/1vhQ_DhImAt5wTB2ccC7c1M1skmaLO5ed/view?usp=sharing"
+                                        href=""
                                         target="_blank"
                                         class="btn-bordered, btn-default, btn"
                                         style="box-shadow: #282828; color: #661616;">Download Template</a>
@@ -85,14 +85,14 @@
                                         Accredited National Journals
                                     </h4>
                                     <div class="zoom">
-                                        <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
+                                        <a href="https://ejournal.umm.ac.id/index.php/legality/index" target="_blank">
                                             <img
                                                 style=" border-radius:10px ; height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes; ;"
                                                 src="{{asset ('public/inclar/images/logo/legality.jpg')}}"
                                                 data-animate="fadeInRight"
                                                 class="class"></a>
                                         </div>
-                                        <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
+                                        <a href="https://ejournal.umm.ac.id/index.php/legality/index" target="_blank">
                                             <h6
                                                 data-animate="fadeInUp"
                                                 data-duration="2s"

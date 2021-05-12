@@ -25,11 +25,11 @@
                         <h3 style="color: #282828">Sonny Zulhuda, Ph.D</h3>
                         <h4 style="color: #646464">Islamic Internatinal University of Malaysia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 35782606500)</h5>
-
+<!--
                         <h3 style="color: #282828">Dr. Abdurrahman Raden Aji Haqqi ,Lc; MCL</h3>
                         <h4 style="color: #646464">Universiti Islam Sultan Sharif Ali, Brunei Darussalam</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : -)</h5>
-
+-->
                         <h3 style="color: #282828">Prof. Dr. Rahayu Hartini,S.H., M.Si., M.Hum</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57221728727)</h5>
