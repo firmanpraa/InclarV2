@@ -108,7 +108,7 @@
                                             data-animate="fadeInUp"
                                             data-duration="2s"
                                             data-delay="1300"
-                                            href="http://ejournal.umm.ac.id/index.php/legality/pages/view/Tamplate"
+                                            href="https://drive.google.com/file/d/1aaFEQ35X7LNWcqHfVwOPfTFngin_xQoF/view?usp=sharing"
                                             target="_blank"
                                             class="btn-bordered, btn-default, btn"
                                             style="box-shadow: #282828; color: #661616;">Download Template</a>
