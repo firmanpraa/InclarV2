@@ -70,7 +70,7 @@
                                         data-animate="fadeInUp"
                                         data-duration="2s"
                                         data-delay="1300"
-                                        href=""
+                                        href="https://drive.google.com/file/d/1juKzUB8ApF8n_gwoCpP0cJeRfbINsBQM/view?usp=sharing"
                                         target="_blank"
                                         class="btn-bordered, btn-default, btn"
                                         style="box-shadow: #282828; color: #661616;">Download Template</a>
