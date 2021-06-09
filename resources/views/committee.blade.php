@@ -42,21 +42,21 @@
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57221875043)</h5>
 
-                        <h3 style="color: #282828">Dr. Herwastoeti, SH.M.Si</h3>
+                        <h3 style="color: #282828">Dr. Herwastoeti, SH., M.Si</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57194415150)</h5>
 
-                        <h3 style="color: #282828">Said Noor Prasetyo, S.H., M.H.</h3>
+                        <h3 style="color: #282828">Dr. Tongat, S.H., M.Hum</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
-                        <h5 style="color: #646464">(SINTA Author ID : 5993824)</h5>
+                        <h5 style="color: #646464">(SINTA Author ID : 57216461749)</h5>
+
+                        <h3 style="color: #282828">Isdian Angraeny, S.H., M.Kn</h3>
+                        <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
+                        <h5 style="color: #646464">(SINTA Author ID : 57221553179)</h5>
 
                         <h3 style="color: #282828">Sholahuddin Al-Fatih, SH., MH.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SINTA Author ID : 57216500585)</h5>
-
-                        <h3 style="color: #282828">Isdian Anggraeny, S.H., MKn</h3>
-                        <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
-                        <h5 style="color: #646464">(SINTA Author ID : 57221553179)</h5>
                         <br>
                     </div>
                 </div>

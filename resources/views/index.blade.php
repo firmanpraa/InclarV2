@@ -266,8 +266,7 @@
                                     <td class="column-2" style="text-align: left; color: white">
                                         <ul>
                                             <li>
-                                                Reputable International Journals Indian Journal of Forensic, Medicine, and
-                                                Toxicology indexed by Scopus Q3, S.J.R.: 0,16 (IJFMT) IDR 3.000.000 (USD 250)*<br>
+                                            The selected paper will be published in a Scopus Indexed Journal<br>
                                             </li>
                                             <li>
                                                 Reputable International Proceeding S.H.S. Web of Conferences indexed by WOS IDR
