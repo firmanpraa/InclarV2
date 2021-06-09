@@ -113,7 +113,8 @@
                             <strong>Business and Bankruptcy Law</strong>
                         </h3>
                         <h4 style="color: #fff">
-                            (Juridical Instruments for Handling The Economic Crisis Related to The Covid 19 Outbreak)
+                            (Juridical Instruments for Handling The Economic Crisis Related to The Covid 19
+                            Outbreak)
                         </h4>
                         <br>
                         <h3 style="color: #fff">
@@ -165,16 +166,9 @@
                         </h2>
                         <table class="table">
                             <tbody>
-                               <!--
-                                <tr class="row-2 odd">
-                                    <td class="column-2" style="text-align: left;">
-                                        Announcement
-                                    </td>
-                                    <td class="column-1" style="text-align: left;">
-                                        <ul><li><strong>January 15, 2021</strong>
-                                    </td></li></ul>
-                                </tr>
-                        -->
+                                <!-- <tr class="row-2 odd"> <td class="column-2" style="text-align: left;">
+                                Announcement </td> <td class="column-1" style="text-align: left;">
+                                <ul><li><strong>January 15, 2021</strong> </td></li></ul> </tr> -->
                                 <tr class="row-2 odd">
                                     <td class="column-2" style="text-align: left;">
                                         Abstracts Submission
@@ -196,7 +190,8 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>March 15th, 2021, until  June 14th, 2021 </strong>
+                                                <strong>March 15th, 2021, until June 14th, 2021
+                                                </strong>
                                             </li>
                                         </ul>
 
@@ -210,35 +205,49 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>March 14th, 2021, until July 12nd, 2021 </strong>
+                                                <strong>March 14th, 2021, until July 12nd, 2021
+                                                </strong>
                                             </li>
-                                        
+
                                         </ul>
                                     </td>
                                 </tr>
                                 <tr class="row-2 odd">
                                     <td class="column-2" style="text-align: left;">
-                                    Registration and Payment Deadline (Early Bird)
+                                        Registration and Payment Deadline (Early Bird)
                                     </td>
                                     <td class="column-1" style="text-align: left;">
-                                        <ul><li><strong>April 3, 2021</strong>
-                                    </td></li></ul>
+                                        <ul>
+                                            <li>
+                                                <strong>April 3, 2021</strong>
+                                            </td>
+                                        </li>
+                                    </ul>
                                 </tr>
                                 <tr class="row-2 odd">
                                     <td class="column-2" style="text-align: left;">
-                                    Registration and Payment Deadline (Normal Rate)
+                                        Registration and Payment Deadline (Normal Rate)
                                     </td>
                                     <td class="column-1" style="text-align: left;">
-                                        <ul><li><strong>June 14, 2021</strong>
-                                    </td></li></ul>
+                                        <ul>
+                                            <li>
+                                                <strong>June 14, 2021</strong>
+                                            </td>
+                                        </li>
+                                    </ul>
                                 </tr>
                                 <tr class="row-2 odd">
                                     <td class="column-2" style="text-align: left;">
-                                    <strong>Conference and Paper Presentation </strong>
+                                        <strong>Conference and Paper Presentation
+                                        </strong>
                                     </td>
                                     <td class="column-1" style="text-align: left;">
-                                        <ul><li><strong>23rd -25th September 2021</strong>
-                                    </td></li></ul>
+                                        <ul>
+                                            <li>
+                                                <strong>23rd -25th September 2021</strong>
+                                            </td>
+                                        </li>
+                                    </ul>
                                 </tr>
                             </tbody>
                         </table>
@@ -259,14 +268,15 @@
                             <strong>Conference Fee IDR 2.000.000 (USD 150)*<br></strong>
                         </h1>
                         <hr style="border-top: 1px solid #fff;">
-                        <h3 style="color: #fff;">*AAll hotel accomodation fees for three days two nights, certificate and all seminar kit. This fees NOT INCLUDED PUBLICATION FEE:</h3>
+                        <h3 style="color: #fff;">*AAll hotel accomodation fees for three days two
+                            nights, certificate and all seminar kit. This fees NOT INCLUDED PUBLICATION FEE:</h3>
                         <table>
                             <tbody>
                                 <tr>
                                     <td class="column-2" style="text-align: left; color: white">
                                         <ul>
                                             <li>
-                                            The selected paper will be published in a Scopus Indexed Journal<br>
+                                                The selected paper will be published in a Scopus Indexed Journal<br>
                                             </li>
                                             <li>
                                                 Reputable International Proceeding S.H.S. Web of Conferences indexed by WOS IDR
@@ -278,7 +288,7 @@
 
                                             </li>
                                             <li>
-                                            Non Accredited National Journals, Audito Comparative Law Journal (Free)*<br>
+                                                Non Accredited National Journals, Audito Comparative Law Journal (Free)*<br>
 
                                             </li>
                                         </ul>
@@ -421,4 +431,55 @@
                 </div>
             </div>
         </section>
-        @endsection
+        <section class="product-block">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-sm-offset-1">
+                        <center>
+                            <h4>
+                                <strong>IN COLLABORATION WITH</strong>
+                            </h4>
+                        </center>
+                        <hr style="border-top: 1px solid #ccc;"></div>
+                </div>
+                <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
+
+                    <div
+                        class="col-sm-4"
+                        style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+                        <center>
+                            <a href="https://um-surabaya.ac.id/" target="_blank">
+                                <img
+                                    style=" height: 50%;width: 50%;"
+                                    title="Universitas Muhammadiyah Surabaya"
+                                    src="{{asset ('public/inclar/images/logo/Universitas-Muhammadiyah-Surabaya.png')}}">
+                            </center>
+                        </div>
+                        <div
+                            class="col-sm-4"
+                            style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+                            <center>
+                                <a href="https://unikama.ac.id/id/" target="_blank">
+                                    <img
+                                        style=" height: 50%;width: 50%;"
+                                        title="Universitas Kanjuruhan Malang"
+                                        src="{{asset ('public/inclar/images/logo/Unikama.png')}}">
+                                </center>
+                            </div>
+
+                            <div
+                                class="col-sm-4"
+                                style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+                                <center>
+                                    <a href="http://www.ung.ac.id/" target="_blank">
+                                        <img
+                                            style=" height: 50%;width: 50%;"
+                                            title="Universitas Negeri Gorontalo"
+                                            src="{{asset ('public/inclar/images/logo/Univ gorontalo.png')}}">
+                                    </center>
+                                </div>
+                            </div>
+
+                        </div>
+                    </section>
+                    @endsection
