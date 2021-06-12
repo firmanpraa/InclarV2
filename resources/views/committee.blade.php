@@ -25,6 +25,10 @@
                         <h3 style="color: #282828">Sonny Zulhuda, Ph.D</h3>
                         <h4 style="color: #646464">Islamic Internatinal University of Malaysia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 35782606500)</h5>
+
+                        <h3 style="color: #282828">Dr. Muhamad Helmi Md.Said</h3>
+                        <h4 style="color: #646464">Universiti Kebangsaan Malaysia</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57193316407)</h5>
 <!--
                         <h3 style="color: #282828">Dr. Abdurrahman Raden Aji Haqqi ,Lc; MCL</h3>
                         <h4 style="color: #646464">Universiti Islam Sultan Sharif Ali, Brunei Darussalam</h4>
@@ -48,15 +52,18 @@
 
                         <h3 style="color: #282828">Dr. Tongat, S.H., M.Hum</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
-                        <h5 style="color: #646464">(SINTA Author ID : 57216461749)</h5>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57216461749)</h5>
 
                         <h3 style="color: #282828">Isdian Angraeny, S.H., M.Kn</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
-                        <h5 style="color: #646464">(SINTA Author ID : 57221553179)</h5>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57221553179)</h5>
 
                         <h3 style="color: #282828">Sholahuddin Al-Fatih, SH., MH.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
-                        <h5 style="color: #646464">(SINTA Author ID : 57216500585)</h5>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57216500585)</h5>
+
+                        
+                        
                         <br>
                     </div>
                 </div>

@@ -40,42 +40,40 @@
                                     style="box-shadow: #282828; color: #661616;">Download Template</a>
                             </div>
                         </div>
-                        <div class="col-md-6" style="padding-top:20px;padding-bottom:20px; ">
+                        <div class="col-md-6" style="padding-top:20px; padding-bottom:20px">
                             <div class="item card" style="margin: 4px; padding:10px;">
                                 <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
-                                    Reputable International Journals
+                                    Non-Accredited National Journals
                                 </h4>
                                 <div class="zoom">
-                                    <a href="http://www.ijfmt.com/" target="_blank">
+                                    <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
                                         <img
-                                            style=" border-radius:10px ; height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes; ;"
-                                            src="{{asset ('public/inclar/images/logo/india.gif')}}"
+                                            style=" height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes;"
+                                            src="{{asset ('public/inclar/images/logo/acj1.png')}}"
                                             data-animate="fadeInRight"
                                             class="class"></a>
                                     </div>
-                                    <a href="http://www.ijfmt.com/" target="_blank">
+                                    <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
                                         <h6
                                             data-animate="fadeInUp"
                                             data-duration="2s"
                                             data-delay="300"
                                             style="margin-bottom:12px;">
                                             <strong>
-                                                Indian Journal of Forensic, Medicine and Toxicology (Indexed by Scopus Q3, SJR:
-                                                0,16)</strong>
-
+                                                Jurnal Ilmiah Hukum, Jurnal Audito</strong>
                                         </h6>
                                     </a>
+
                                     <a
                                         id=""
                                         data-animate="fadeInUp"
                                         data-duration="2s"
                                         data-delay="1300"
-                                        href="https://drive.google.com/file/d/1juKzUB8ApF8n_gwoCpP0cJeRfbINsBQM/view?usp=sharing"
+                                        href="https://drive.google.com/file/d/1vhQ_DhImAt5wTB2ccC7c1M1skmaLO5ed/view?usp=sharing"
                                         target="_blank"
                                         class="btn-bordered, btn-default, btn"
                                         style="box-shadow: #282828; color: #661616;">Download Template</a>
                                 </div>
-
                             </div>
                         </div>
                         <div class="row" style="align-item: center;">
@@ -115,41 +113,16 @@
                                     </div>
 
                                 </div>
-                                <div class="col-md-6" style="padding-top:20px; padding-bottom:20px">
-                                    <div class="item card" style="margin: 4px; padding:10px;">
-                                        <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
-                                            Non-Accredited National Journals
-                                        </h4>
-                                        <div class="zoom">
-                                            <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
-                                                <img
-                                                    style=" height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes;"
-                                                    src="{{asset ('public/inclar/images/logo/acj1.png')}}"
-                                                    data-animate="fadeInRight"
-                                                    class="class"></a>
-                                            </div>
-                                            <a href="http://ejournal.umm.ac.id/index.php/audito" target="_blank">
-                                                <h6
-                                                    data-animate="fadeInUp"
-                                                    data-duration="2s"
-                                                    data-delay="300"
-                                                    style="margin-bottom:12px;">
-                                                    <strong>
-                                                        Jurnal Ilmiah Hukum, Jurnal Audito</strong>
-                                                </h6>
-                                            </a>
 
-                                            <a
-                                                id=""
-                                                data-animate="fadeInUp"
-                                                data-duration="2s"
-                                                data-delay="1300"
-                                                href="https://drive.google.com/file/d/1vhQ_DhImAt5wTB2ccC7c1M1skmaLO5ed/view?usp=sharing"
-                                                target="_blank"
-                                                class="btn-bordered, btn-default, btn"
-                                                style="box-shadow: #282828; color: #661616;">Download Template</a>
+                                <div class="col-md-6" style="padding-top:20px;padding-bottom:20px; color:#BDA8A8; ">
+                                    <div style="color:#BDA8A8; margin: 4px; padding:10px; text-align: center">
+                                        <h3 data-animate="fadeInUp" data-duration="2s" data-delay="300">
+                                        *The selected paper will be published in a Scopus Indexed Journal
+                                        </h3>
                                         </div>
+
                                     </div>
+
                                 </div>
                             </div>
                         </div>

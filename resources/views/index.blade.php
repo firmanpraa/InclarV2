@@ -190,7 +190,7 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>March 15th, 2021, until June 14th, 2021
+                                                <strong>Extended until June 30,2021
                                                 </strong>
                                             </li>
                                         </ul>
@@ -231,7 +231,7 @@
                                     <td class="column-1" style="text-align: left;">
                                         <ul>
                                             <li>
-                                                <strong>June 14, 2021</strong>
+                                                <strong>Extended until June 30,2021</strong>
                                             </td>
                                         </li>
                                     </ul>
@@ -268,7 +268,7 @@
                             <strong>Conference Fee IDR 2.000.000 (USD 150)*<br></strong>
                         </h1>
                         <hr style="border-top: 1px solid #fff;">
-                        <h3 style="color: #fff;">*AAll hotel accomodation fees for three days two
+                        <h3 style="color: #fff;">*All hotel accomodation fees for three days two
                             nights, certificate and all seminar kit. This fees NOT INCLUDED PUBLICATION FEE:</h3>
                         <table>
                             <tbody>
