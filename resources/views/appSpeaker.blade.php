@@ -49,14 +49,14 @@
                             <center>
                                 <a href="i">
                                     <img
-                                        src="{{asset ('public/inclar/images/lucas.png')}}"
+                                        src="{{asset ('public/inclar/images/hilaire.png')}}"
                                         alt="Avatar"
                                         data-animate="zoomIn"
                                         data-delay="0"
                                         style=" height: 50%;width: 50%; position: absolutes; margin-bottom: 20px;"></a>
-                                    <a class="gallery-item-title">Prof. Francois Xavier Lucas</a>
+                                    <a class="gallery-item-title">Dr. Hilaire Tegnan</a>
                                     <p class="gallery-item-descr">
-                                        <i>Universite Paris, Pantheon Sorbonne, French</i>
+                                        <i>William and Mary Law School, Williamsburg, Virginia, USA</i>
                                     </p>
                                 </center>
                             </div>
