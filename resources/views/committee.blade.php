@@ -10,6 +10,19 @@
                             <strong style="color: #F2B705;">Academic Advisory Board</strong>
                         </h2>
                         <hr style="border-top: 1px solid #282828;">
+
+                        <h3 style="color: #282828">Dr. Hilaire Tegnan</h3>
+                        <h4 style="color: #646464">William and Mary Law School, Wiliamsburg, Virginia, USA</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57193013661)</h5>
+
+                        <h3 style="color: #282828">Dr. Petra Mahy</h3>
+                        <h4 style="color: #646464">Monash University, Australia</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 56396790700)</h5>
+
+                        <h3 style="color: #282828">Dr. Muhamad Helmi Md.Said</h3>
+                        <h4 style="color: #646464">Universiti Kebangsaan Malaysia</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57193316407)</h5>
+
                         <h3 style="color: #282828">Dr. Moh. Najih, S.H., M.Hum., Ph.D</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57194416852)</h5>
@@ -189,10 +202,6 @@
                                     </tr>
                                     <tr>
                                         <td>Cholidah, S.H., M.H</td>
-                                    </tr>
-                                    <tr>
-                                    <td><strong>Registration and Secretariat Chair</strong></td>
-                                        <td>Nu'man Aunuh,S.H., M.Hum</td>
                                     </tr>
                                    <tr>
                                         <td><strong>Facilities and Local Arrangement Chair</strong></td>

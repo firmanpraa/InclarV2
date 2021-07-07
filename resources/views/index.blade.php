@@ -439,31 +439,34 @@
                             <h4>
                                 <strong>IN COLLABORATION WITH</strong>
                             </h4>
+                            
                         </center>
                         <hr style="border-top: 1px solid #ccc;"></div>
+                        
                 </div>
+                <br><br>
                 <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
 
                     <div
                         class="col-sm-4"
                         style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                         <center>
-                            <a href="https://um-surabaya.ac.id/" target="_blank">
+                            <a href="https://law.wm.edu/" target="_blank">
                                 <img
-                                    style=" height: 50%;width: 50%;"
-                                    title="Universitas Muhammadiyah Surabaya"
-                                    src="{{asset ('public/inclar/images/logo/Universitas-Muhammadiyah-Surabaya.png')}}">
+                                    style=" height: 60%;width: 60%;"
+                                    title="William & Mary Law School"
+                                    src="{{asset ('public/inclar/images/logo/wm.png')}}">
                             </center>
                         </div>
                         <div
                             class="col-sm-4"
                             style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                             <center>
-                                <a href="https://unikama.ac.id/id/" target="_blank">
+                                <a href="https://www.monash.edu/" target="_blank">
                                     <img
-                                        style=" height: 50%;width: 50%;"
-                                        title="Universitas Kanjuruhan Malang"
-                                        src="{{asset ('public/inclar/images/logo/Unikama.png')}}">
+                                        style=" height: 60%;width: 60%;"
+                                        title="Monash University Australia"
+                                        src="{{asset ('public/inclar/images/logo/monash.png')}}">
                                 </center>
                             </div>
 
@@ -471,14 +474,70 @@
                                 class="col-sm-4"
                                 style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
                                 <center>
-                                    <a href="http://www.ung.ac.id/" target="_blank">
+                                    <a href="https://www.ukm.my/portal/" target="_blank">
                                         <img
-                                            style=" height: 50%;width: 50%;"
-                                            title="Universitas Negeri Gorontalo"
-                                            src="{{asset ('public/inclar/images/logo/Univ gorontalo.png')}}">
+                                            style=" height: 60%;width: 60%;"
+                                            title="Universiti Kebangsaan Malaysia"
+                                            src="{{asset ('public/inclar/images/logo/ukm.png')}}">
                                     </center>
                                 </div>
                             </div>
+                            <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
+
+<br><br>
+<div
+    class="col-sm-4"
+    style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+    <center>
+        <a href="https://um-surabaya.ac.id/" target="_blank">
+            <img
+                style=" height: 50%;width: 50%;"
+                title="Universitas Muhammadiyah Surabaya"
+                src="{{asset ('public/inclar/images/logo/Universitas-Muhammadiyah-Surabaya.png')}}">
+        </center>
+    </div>
+    <div
+        class="col-sm-4"
+        style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+        <center>
+            <a href="https://unikama.ac.id/id/" target="_blank">
+                <img
+                    style=" height: 50%;width: 50%;"
+                    title="Universitas Kanjuruhan Malang"
+                    src="{{asset ('public/inclar/images/logo/Unikama.png')}}">
+            </center>
+        </div>
+        <div
+        class="col-sm-4"
+        style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+        <center>
+            <a href="http://www.uid.ac.id/" target="_blank">
+                <img
+                    style=" height: 50%;width: 50%;"
+                    title="Universitas Islam Jakarta"
+                    src="{{asset ('public/inclar/images/logo/uij.png')}}">
+            </center>
+        </div>
+        </div>
+        <br><br>
+        <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
+        <div
+            class="col-sm-4"
+            style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+            
+            </div>
+        <div
+            class="col-sm-4"
+            style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+            <center>
+                <a href="http://www.ung.ac.id/" target="_blank">
+                    <img
+                        style=" height: 50%;width: 50%;"
+                        title="Universitas Negeri Gorontalo"
+                        src="{{asset ('public/inclar/images/logo/Univ gorontalo.png')}}">
+                </center>
+            </div>
+        </div>
 
                         </div>
                     </section>
