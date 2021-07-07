@@ -489,6 +489,17 @@
     class="col-sm-4"
     style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
     <center>
+        <a href="https://www.ui.ac.id/" target="_blank">
+            <img
+                style=" height: 70%;width: 70%;"
+                title="Universitas Indonesia"
+                src="{{asset ('public/inclar/images/logo/ui.png')}}">
+        </center>
+    </div>
+    <div
+    class="col-sm-4"
+    style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+    <center>
         <a href="https://um-surabaya.ac.id/" target="_blank">
             <img
                 style=" height: 50%;width: 50%;"
@@ -507,25 +518,9 @@
                     src="{{asset ('public/inclar/images/logo/Unikama.png')}}">
             </center>
         </div>
-        <div
-        class="col-sm-4"
-        style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
-        <center>
-            <a href="http://www.uid.ac.id/" target="_blank">
-                <img
-                    style=" height: 50%;width: 50%;"
-                    title="Universitas Islam Jakarta"
-                    src="{{asset ('public/inclar/images/logo/uij.png')}}">
-            </center>
-        </div>
         </div>
         <br><br>
         <div class="row zoom-gallery text-center" data-animate="zoomIn" data-delay="0">
-        <div
-            class="col-sm-4"
-            style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
-            
-            </div>
         <div
             class="col-sm-4"
             style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
@@ -537,6 +532,17 @@
                         src="{{asset ('public/inclar/images/logo/Univ gorontalo.png')}}">
                 </center>
             </div>
+        <div
+        class="col-sm-4"
+        style="display: -webkit-box; -webkit-box-pack: start; -webkit-box-align: start;">
+        <center>
+            <a href="http://www.uid.ac.id/" target="_blank">
+                <img
+                    style=" height: 50%;width: 50%;"
+                    title="Universitas Islam Jakarta"
+                    src="{{asset ('public/inclar/images/logo/uij.png')}}">
+            </center>
+        </div>
         </div>
 
                         </div>
