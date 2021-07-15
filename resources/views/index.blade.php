@@ -478,7 +478,7 @@
                                         <img
                                             style=" height: 60%;width: 60%;"
                                             title="Universiti Kebangsaan Malaysia"
-                                            src="{{asset ('public/inclar/images/logo/ukm.png')}}">
+                                            src="{{asset ('public/inclar/images/logo/UKM.png')}}">
                                     </center>
                                 </div>
                             </div>
