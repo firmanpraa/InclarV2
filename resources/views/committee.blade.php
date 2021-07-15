@@ -23,6 +23,30 @@
                         <h4 style="color: #646464">Universiti Kebangsaan Malaysia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57193316407)</h5>
 
+                        <h3 style="color: #282828">Nur Rohim Yunus, S.H.,LL.M</h3>
+                        <h4 style="color: #646464">Universitas Islam Negeri Syarif Hidayatullah Jakarta</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57216167775)</h5>
+
+                        <h3 style="color: #282828">Prof. Abdullah Saeed </h3>
+                        <h4 style="color: #646464">Univesity of Melbourne</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 26033624400)</h5>
+
+                        <h3 style="color: #282828">Prof. Dr. Kholis Roisah, S.H.,M.Hum</h3>
+                        <h4 style="color: #646464">Universitas Diponegoro</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57195838129)</h5>
+
+                        <h3 style="color: #282828">Dr. Irma Cahyaningtyas, SH., MHum</h3>
+                        <h4 style="color: #646464">Universitas Diponegoro</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57203358041)</h5>
+
+                        <h3 style="color: #282828">Dr. Dewa Gede Sudika Mangku, S.H., LL.M</h3>
+                        <h4 style="color: #646464">Universitas Pendidikan Ganesha</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57219601550)</h5>
+
+                        <h3 style="color: #282828">Abdul Kadir Jaelani, S.H., M.H.</h3>
+                        <h4 style="color: #646464">UUniversitas Sebelas Maret Surakarta</h4>
+                        <h5 style="color: #646464">(SCOPUS Author ID : 57215215171)</h5>
+
                         <h3 style="color: #282828">Dr. Moh. Najih, S.H., M.Hum., Ph.D</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57194416852)</h5>
@@ -38,10 +62,6 @@
                         <h3 style="color: #282828">Sonny Zulhuda, Ph.D</h3>
                         <h4 style="color: #646464">Islamic Internatinal University of Malaysia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 35782606500)</h5>
-
-                        <h3 style="color: #282828">Dr. Muhamad Helmi Md.Said</h3>
-                        <h4 style="color: #646464">Universiti Kebangsaan Malaysia</h4>
-                        <h5 style="color: #646464">(SCOPUS Author ID : 57193316407)</h5>
 <!--
                         <h3 style="color: #282828">Dr. Abdurrahman Raden Aji Haqqi ,Lc; MCL</h3>
                         <h4 style="color: #646464">Universiti Islam Sultan Sharif Ali, Brunei Darussalam</h4>
