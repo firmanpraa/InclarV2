@@ -24,7 +24,7 @@
                         <h5 style="color: #646464">(SCOPUS Author ID : 57193316407)</h5>
 
                         <h3 style="color: #282828">Nur Rohim Yunus, S.H.,LL.M</h3>
-                        <h4 style="color: #646464">Universitas Islam Negeri Syarif Hidayatullah Jakarta</h4>
+                        <h4 style="color: #646464">Gosudarstvennyy Universitet Upravleniya, Moscow Russia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57216167775)</h5>
 
                         <h3 style="color: #282828">Prof. Abdullah Saeed </h3>
