@@ -6,6 +6,43 @@
             </h2>
             <hr>
                 <div class="row" style="align-item: center;">
+                <div class="col-md-6" style="padding-top:20px;padding-bottom:20px">
+                                <div class="item card" style="margin: 4px; padding:10px;">
+                                    <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
+                                        Accredited National Journals
+                                    </h4>
+                                    <div class="zoom">
+                                        <a href="https://ejournal.umm.ac.id/index.php/legality/index" target="_blank">
+                                            <img
+                                                style=" border-radius:10px ; height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes; ;"
+                                                src="{{asset ('public/inclar/images/logo/legality.jpg')}}"
+                                                data-animate="fadeInRight"
+                                                class="class"></a>
+                                        </div>
+                                        <a href="https://ejournal.umm.ac.id/index.php/legality/index" target="_blank">
+                                            <h6
+                                                data-animate="fadeInUp"
+                                                data-duration="2s"
+                                                data-delay="300"
+                                                style="margin-bottom:12px;">
+                                                <strong>
+                                                    Jurnal Ilmiah Hukum (Terakreditasi Sinta 2), Legality</strong>
+
+                                            </h6>
+                                        </a>
+                                        <a
+                                            id=""
+                                            data-animate="fadeInUp"
+                                            data-duration="2s"
+                                            data-delay="1300"
+                                            href="https://drive.google.com/file/d/1aaFEQ35X7LNWcqHfVwOPfTFngin_xQoF/view?usp=sharing"
+                                            target="_blank"
+                                            class="btn-bordered, btn-default, btn"
+                                            style="box-shadow: #282828; color: #661616;">Download Template</a>
+                                    </div>
+
+                                </div>
+<!--
                     <div class="col-md-6" style="padding-top:20px;padding-bottom:20px; ">
                         <div class="item card" style="margin: 4px; padding:10px;">
                             <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
@@ -39,7 +76,7 @@
                                     class="btn-bordered, btn-default, btn"
                                     style="box-shadow: #282828; color: #661616;">Download Template</a>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-md-6" style="padding-top:20px; padding-bottom:20px">
                             <div class="item card" style="margin: 4px; padding:10px;">
                                 <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
@@ -77,49 +114,13 @@
                             </div>
                         </div>
                         <div class="row" style="align-item: center;">
-                            <div class="col-md-6" style="padding-top:20px;padding-bottom:20px">
-                                <div class="item card" style="margin: 4px; padding:10px;">
-                                    <h4 data-animate="fadeInUp" data-duration="2s" data-delay="300">
-                                        Accredited National Journals
-                                    </h4>
-                                    <div class="zoom">
-                                        <a href="https://ejournal.umm.ac.id/index.php/legality/index" target="_blank">
-                                            <img
-                                                style=" border-radius:10px ; height: 50%; width: 50%; margin-bottom:2%; margin-top: 4%; position: absolutes; ;"
-                                                src="{{asset ('public/inclar/images/logo/legality.jpg')}}"
-                                                data-animate="fadeInRight"
-                                                class="class"></a>
-                                        </div>
-                                        <a href="https://ejournal.umm.ac.id/index.php/legality/index" target="_blank">
-                                            <h6
-                                                data-animate="fadeInUp"
-                                                data-duration="2s"
-                                                data-delay="300"
-                                                style="margin-bottom:12px;">
-                                                <strong>
-                                                    Jurnal Ilmiah Hukum (Terakreditasi Sinta 2), Legality</strong>
 
-                                            </h6>
-                                        </a>
-                                        <a
-                                            id=""
-                                            data-animate="fadeInUp"
-                                            data-duration="2s"
-                                            data-delay="1300"
-                                            href="https://drive.google.com/file/d/1aaFEQ35X7LNWcqHfVwOPfTFngin_xQoF/view?usp=sharing"
-                                            target="_blank"
-                                            class="btn-bordered, btn-default, btn"
-                                            style="box-shadow: #282828; color: #661616;">Download Template</a>
-                                    </div>
-
-                                </div>
-
-                                <div class="col-md-6" style="padding-top:20px;padding-bottom:20px; color:#BDA8A8; ">
+                                
                                     <div style="color:#BDA8A8; margin: 4px; padding:10px; text-align: center">
                                         <h3 data-animate="fadeInUp" data-duration="2s" data-delay="300">
                                         *The selected paper will be published in a Scopus Indexed Journal
                                         </h3>
-                                        </div>
+                                        
 
                                     </div>
 
