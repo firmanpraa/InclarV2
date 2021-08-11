@@ -14,54 +14,68 @@
                         <h3 style="color: #282828">Dr. Hilaire Tegnan</h3>
                         <h4 style="color: #646464">William and Mary Law School, Wiliamsburg, Virginia, USA</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57193013661)</h5>
+                        <h5 style="color: #646464">(United States of America)</h5>
+
 
                         <h3 style="color: #282828">Dr. Petra Mahy</h3>
                         <h4 style="color: #646464">Monash University, Australia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 56396790700)</h5>
+                        <h5 style="color: #646464">(Australia)</h5>
 
                         <h3 style="color: #282828">Dr. Muhamad Helmi Md.Said</h3>
                         <h4 style="color: #646464">Universiti Kebangsaan Malaysia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57193316407)</h5>
+                        <h5 style="color: #646464">(Malaysia)</h5>
 
                         <h3 style="color: #282828">Nur Rohim Yunus, S.H.,LL.M</h3>
                         <h4 style="color: #646464">Gosudarstvennyy Universitet Upravleniya, Moscow Russia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57216167775)</h5>
+                        <h5 style="color: #646464">(Russia)</h5>
 
                         <h3 style="color: #282828">Prof. Abdullah Saeed </h3>
                         <h4 style="color: #646464">University of Melbourne</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 26033624400)</h5>
+                        <h5 style="color: #646464">(Australia)</h5>
 
                         <h3 style="color: #282828">Prof. Dr. Kholis Roisah, S.H.,M.Hum</h3>
                         <h4 style="color: #646464">Universitas Diponegoro</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57195838129)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Dr. Irma Cahyaningtyas, SH., MHum</h3>
                         <h4 style="color: #646464">Universitas Diponegoro</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57203358041)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Dr. Dewa Gede Sudika Mangku, S.H., LL.M</h3>
                         <h4 style="color: #646464">Universitas Pendidikan Ganesha</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57219601550)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Abdul Kadir Jaelani, S.H., M.H.</h3>
                         <h4 style="color: #646464">Universitas Sebelas Maret Surakarta</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57215215171)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Dr. Moh. Najih, S.H., M.Hum., Ph.D</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57194416852)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Dr. Fifik Wiryani, S.H., M.Si., M.Hum</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57194418609)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Prof. Hikmahanto Juwana, S.H., LLM, PhD</h3>
                         <h4 style="color: #646464">University of Indonesia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 8235016600)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Sonny Zulhuda, Ph.D</h3>
                         <h4 style="color: #646464">Islamic International University of Malaysia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 35782606500)</h5>
+                        <h5 style="color: #646464">(Malaysia)</h5>
 <!--
                         <h3 style="color: #282828">Dr. Abdurrahman Raden Aji Haqqi ,Lc; MCL</h3>
                         <h4 style="color: #646464">Universiti Islam Sultan Sharif Ali, Brunei Darussalam</h4>
@@ -70,30 +84,37 @@
                         <h3 style="color: #282828">Prof. Dr. Rahayu Hartini,S.H., M.Si., M.Hum</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57221728727)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Prof. Dr. Muhammad Fauzan, S.H., M.Hum.</h3>
                         <h4 style="color: #646464">Universitas Jenderal Soedirman</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57210700999)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Dr. Sidik Sunaryo, SH., M.Si., M.Hum.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57221875043)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Dr. Herwastoeti, SH., M.Si</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57194415150)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Dr. Tongat, S.H., M.Hum</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57216461749)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Isdian Angraeny, S.H., M.Kn</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57221553179)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Sholahuddin Al-Fatih, SH., MH.</h3>
                         <h4 style="color: #646464">University of Muhammadiyah Malang</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57216500585)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         
                         
