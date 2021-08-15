@@ -30,7 +30,7 @@
                         <h3 style="color: #282828">Nur Rohim Yunus, S.H.,LL.M</h3>
                         <h4 style="color: #646464">Gosudarstvennyy Universitet Upravleniya, Moscow Russia</h4>
                         <h5 style="color: #646464">(SCOPUS Author ID : 57216167775)</h5>
-                        <h5 style="color: #646464">(Russia)</h5>
+                        <h5 style="color: #646464">(Indonesia)</h5>
 
                         <h3 style="color: #282828">Prof. Abdullah Saeed </h3>
                         <h4 style="color: #646464">University of Melbourne</h4>
@@ -134,24 +134,27 @@
             <tbody>
                                     <tr>
                                         <td><strong>Patrons</strong</td>
-                                        <td>Prof. Dr. Syamsul Arifin, M.Si.<br><h6 style="color: grey;">2nd Vice Rector, University of Muhammadiyah Malang</h6></td>
+                                        <td>Prof. Dr. Syamsul Arifin, M.Si.
+                                            <br><h6 style="color: grey;">2nd Vice Rector, University of Muhammadiyah Malang</h6>
+                                            <h6 style="color: grey;">(Indonesia)</h6>
+                                        </td>
                                     </tr>
                                     <tr>
                                         <td rowspan="2"><strong>Advisor</strong></td>
-                                        <td>Prof. Dr. Yus M. Cholily, M.Si.<h6 style="color: grey;">DPPM Director, University of Muhammadiyah Malang</h6></td>
+                                        <td>Prof. Dr. Yus M. Cholily, M.Si.<h6 style="color: grey;">DPPM Director, University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>                                    
                                     <tr>
-                                        <td>Dr. Tongat, S.H., M.Hum.<h6 style="color: grey;">Dean of Law Faculty, University of Muhammadiyah Malang</h6></td>
+                                        <td>Dr. Tongat, S.H., M.Hum.<h6 style="color: grey;">Dean of Law Faculty, University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
                                         <td rowspan="3"><strong>Responsible Person</strong</td>
-                                        <td>Dr. Fardini Sabilah, M.Pd. <br><h6 style="color: grey;">LPPI Chair, University of Muhammadiyah Malang</h6></td>
+                                        <td>Dr. Fardini Sabilah, M.Pd. <br><h6 style="color: grey;">LPPI Chair, University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Salahudin, S.IP., M.Si., M.P.A.<br><h6 style="color: grey;">LPPI Secretary, University of Muhammadiyah Malang</h6></td>
+                                        <td>Salahudin, S.IP., M.Si., M.P.A.<br><h6 style="color: grey;">LPPI Secretary, University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Dr. Catur Wido Haruni, S.H., M.Si., M. Hum.<br><h6 style="color: grey;">1st Vice Dean of Law Faculty, University of Muhammadiyah Malang</h6></td>
+                                        <td>Dr. Catur Wido Haruni, S.H., M.Si., M. Hum.<br><h6 style="color: grey;">1st Vice Dean of Law Faculty, University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                 </tbody>
             </table>
@@ -170,13 +173,13 @@
             <tbody>
                                     <tr>
                                         <td rowspan="4"><strong>Scientific Advisory Board</strong</td>
-                                        <td>Dr. Mokh. Najih, SH., M.Hum<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
+                                        <td>Dr. Mokh. Najih, SH., M.Hum<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Dr. Sidik Sunaryo, M.Si.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
+                                        <td>Dr. Sidik Sunaryo, M.Si.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Prof. Rahayu Hartini, S.H., M.Si., M.Hum.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6></td>
+                                        <td>Prof. Rahayu Hartini, S.H., M.Si., M.Hum.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                 </tbody>
             </table>
@@ -196,57 +199,57 @@
                         
                                     <tr>
                                         <td><strong>General Chair</strong></td>
-                                        <td>Fitria Esfandiari, S.H., M.H.</td>
+                                        <td>Fitria Esfandiari, S.H., M.H.<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
                                         <td rowspan="2"><strong>Treasurer</strong></td>
-                                        <td>Kharisma Naidi Warnanda S, M.Pd.</td>
+                                        <td>Kharisma Naidi Warnanda S, M.Pd.<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Dr. Herwastoeti, S.H., M.Si</td>
+                                        <td>Dr. Herwastoeti, S.H., M.Si<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
                                     <tr>
                                         <td rowspan="6"><strong>Technical Program & Publication Chair</strong></td>
-                                        <td>Sholahuddin Al Fatih, S.H., M.H. </td>
+                                        <td>Sholahuddin Al Fatih, S.H., M.H. <br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Dr. Haris. S.H., M.Hum</td>
+                                        <td>Dr. Haris. S.H., M.Hum<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Dr. Fifik Wiryani, S.H., M.Si., M.Hum</td>
+                                        <td>Dr. Fifik Wiryani, S.H., M.Si., M.Hum<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Nur Putri Hidayah, A.Md., S.H., M.H</td>
+                                        <td>Nur Putri Hidayah, A.Md., S.H., M.H<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Yaris Adhial Fajrin, S.H., M.H.</td>
+                                        <td>Yaris Adhial Fajrin, S.H., M.H.<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Tinuk Dwi Cahyani, S.H., S.H.I., M.Hum</td>
+                                        <td>Tinuk Dwi Cahyani, S.H., S.H.I., M.Hum<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <td rowspan="2"><strong>Publicity and Sponsorship Chair</strong></td>
-                                        <td>Said Noor Prasetyo, S.H., M.H.</td>
+                                        <td>Said Noor Prasetyo, S.H., M.H.<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Syariful Alam, S.H.I., M.H.I</td>
+                                        <td>Syariful Alam, S.H.I., M.H.I<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
                                     <td rowspan="2"><strong>Registration & Secretariat Chair</strong></td>
-                                        <td>Muhammad Luthfi, S.H., S.Sy., M.H.I</td>
+                                        <td>Muhammad Luthfi, S.H., S.Sy., M.H.I<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <tr>
-                                        <td>Syaiful Alam, S.H., M.H.I</td>
+                                        <td>Syaiful Alam, S.H., M.H.I<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                     <td rowspan="2"><strong>Program Chair</strong></td>
-                                        <td>Ratri Novita Erdianti, S.H., M.H. </td>
+                                        <td>Ratri Novita Erdianti, S.H., M.H.<br><h6 style="color: grey;">(Indonesia)</h6> </td>
                                     </tr>
                                     <tr>
-                                        <td>Cholidah, S.H., M.H</td>
+                                        <td>Cholidah, S.H., M.H<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                    <tr>
                                         <td><strong>Facilities and Local Arrangement Chair</strong></td>
-                                        <td>Nu’man Aunuh, S.H., M.Hum</td>
+                                        <td>Nu’man Aunuh, S.H., M.Hum<br><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
                                 </tbody>
             </table>
