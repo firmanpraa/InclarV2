@@ -181,6 +181,9 @@
                                     <tr>
                                         <td>Prof. Rahayu Hartini, S.H., M.Si., M.Hum.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
                                     </tr>
+                                    <tr>
+                                        <td>Nur Putri Hidayah, A.Md., SH., MH.<br><h6 style="color: grey;">University of Muhammadiyah Malang</h6><h6 style="color: grey;">(Indonesia)</h6></td>
+                                    </tr>
                                 </tbody>
             </table>
                     </div>
